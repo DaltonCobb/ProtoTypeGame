@@ -718,3 +718,12 @@ Recommended: 511.79
 [2022.08.22-02.42.19:017][  0]LogAssetRegistry: Asset discovery search completed in 18.1381 seconds
 [2022.08.22-02.42.19:050][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
 [2022.08.22-02.42.19:052][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.08.22-02.43.59:656][479]LogDerivedDataCache: C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.794 and deleted 0 file(s) with total size 0 MiB.
+[2022.08.22-02.52.25:239][432]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/Dalton/Documents/VrgitR/VrGame/ProtoTypeGame/InventorySystem/Content/Collections/' because it could not be accessed. Aborting watch request...
+[2022.08.22-02.52.25:240][432]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/Dalton/Documents/VrgitR/VrGame/ProtoTypeGame/InventorySystem/Content/Developers/Dalton/Collections/' because it could not be accessed. Aborting watch request...
+[2022.08.22-02.52.25:240][432]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/Dalton/Documents/VrgitR/VrGame/ProtoTypeGame/InventorySystem/Saved/Collections/' because it could not be accessed. Aborting watch request...
+[2022.08.22-02.52.59:522][768]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speakers (Synaptics Audio), InstanceID=1
+[2022.08.22-02.52.59:535][769]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=33132
+[2022.08.22-02.52.59:637][773]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{2aeed755-3681-446c-941d-2c2b1963f7c0}, Name=Speakers (Synaptics Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=87.47
+[2022.08.22-02.52.59:637][773]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2022.08.22-02.52.59:647][774]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
