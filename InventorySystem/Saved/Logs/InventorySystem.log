@@ -727,3 +727,437 @@ Recommended: 511.79
 [2022.08.22-02.52.59:637][773]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{2aeed755-3681-446c-941d-2c2b1963f7c0}, Name=Speakers (Synaptics Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=87.47
 [2022.08.22-02.52.59:637][773]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
 [2022.08.22-02.52.59:647][774]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.08.22-03.43.57:630][320]LogDerivedDataCache: C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.462 and deleted 6 file(s) with total size 0 MiB.
+[2022.08.22-04.19.15:438][316]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Items/BP_Sword.BP_Sword
+[2022.08.22-04.19.15:438][316]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.22-04.19.19:503][443]LogSlate: Window 'BP_Sword' being destroyed
+[2022.08.22-04.19.19:510][443]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2022.08.22-04.19.19:510][443]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.22-04.19.19:546][443]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Items/BP_Sword.BP_Sword
+[2022.08.22-04.19.19:547][443]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.22-04.19.20:188][443]LogSlate: Took 0.004955 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.08.22-04.20.14:267][561]LogSlate: Window 'BP_Sword' being destroyed
+[2022.08.22-04.20.16:764][699]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Items/BP_FlashLight.BP_FlashLight
+[2022.08.22-04.20.16:764][699]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.22-04.20.24:064][112]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2022.08.22-04.20.24:064][112]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.22-04.20.24:097][112]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Items/BP_FlashLight.BP_FlashLight
+[2022.08.22-04.20.24:098][112]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.22-04.42.10:815][398]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Items/BP_FlashLight.BP_FlashLight_C
+[2022.08.22-04.42.10:816][398]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Items/BP_FlashLight.BP_FlashLight_C
+[2022.08.22-04.42.10:817][398]LogActorFactory: Actor Factory spawned Blueprint /Game/Items/BP_FlashLight.BP_FlashLight as actor: BP_FlashLight_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_FlashLight_C_0
+[2022.08.22-04.42.10:819][398]LogActorFactory: Actor Factory spawned Blueprint /Game/Items/BP_FlashLight.BP_FlashLight as actor: BP_FlashLight_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_FlashLight_C_0
+[2022.08.22-04.42.11:869][460]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Items/BP_FlashLight.BP_FlashLight_C
+[2022.08.22-04.42.11:869][460]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Items/BP_FlashLight.BP_FlashLight_C
+[2022.08.22-04.42.11:872][460]LogActorFactory: Actor Factory spawned Blueprint /Game/Items/BP_FlashLight.BP_FlashLight as actor: BP_FlashLight_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_FlashLight_C_UAID_94E6F7211C26FD2E01_1221033263
+[2022.08.22-04.42.11:873][460]LogActorFactory: Actor Factory spawned Blueprint /Game/Items/BP_FlashLight.BP_FlashLight as actor: BP_FlashLight_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_FlashLight_C_UAID_94E6F7211C26FD2E01_1221033263
+[2022.08.22-04.42.12:926][516]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Items/BP_Sword.BP_Sword_C
+[2022.08.22-04.42.12:926][516]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Items/BP_Sword.BP_Sword_C
+[2022.08.22-04.42.12:927][516]LogActorFactory: Actor Factory spawned Blueprint /Game/Items/BP_Sword.BP_Sword as actor: BP_Sword_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Sword_C_0
+[2022.08.22-04.42.12:928][516]LogActorFactory: Actor Factory spawned Blueprint /Game/Items/BP_Sword.BP_Sword as actor: BP_Sword_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Sword_C_0
+[2022.08.22-04.42.13:788][566]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Items/BP_Sword.BP_Sword_C
+[2022.08.22-04.42.13:788][566]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Items/BP_Sword.BP_Sword_C
+[2022.08.22-04.42.13:790][566]LogActorFactory: Actor Factory spawned Blueprint /Game/Items/BP_Sword.BP_Sword as actor: BP_Sword_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Sword_C_UAID_94E6F7211C26FD2E01_1222951264
+[2022.08.22-04.42.13:791][566]LogActorFactory: Actor Factory spawned Blueprint /Game/Items/BP_Sword.BP_Sword as actor: BP_Sword_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Sword_C_UAID_94E6F7211C26FD2E01_1222951264
+[2022.08.22-04.42.15:126][640]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.08.22-04.42.15:139][640]LogWorldPartition: Display: GenerateStreaming started...
+[2022.08.22-04.42.15:139][640]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.08.22-04.42.15:139][640]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.08.22-04.42.15:139][640]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.08.22-04.42.15:139][640]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.08.22-04.42.15:139][640]LogWorldPartition: Display: GetPartitionedActors took 304 us
+[2022.08.22-04.42.15:140][640]LogWorldPartition: Display: GenerateStreaming took 993 us
+[2022.08.22-04.42.15:142][640]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.22-04.42.15:144][640]PIE: New page: PIE session: ThirdPersonMap (Aug 21, 2022, 4:42:15 PM)
+[2022.08.22-04.42.15:147][640]LogOnline: OSS: Created online subsystem instance for: NULL
+[2022.08.22-04.42.15:147][640]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.08.22-04.42.15:147][640]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2022.08.22-04.42.15:151][640]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.08.22-04.42.15:151][640]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004659s)
+[2022.08.22-04.42.15:151][640]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.004729s)
+[2022.08.22-04.42.15:152][640]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.22-04.42.15:152][640]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2022.08.22-04.42.15:153][640]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.08.22-04.42.15:153][640]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.08.22-04.42.15:154][640]LogWorldPartition: Display: WorldPartition initialize took 1 ms
+[2022.08.22-04.42.15:154][640]LogPlayLevel: PIE: World Init took: (0.002395s)
+[2022.08.22-04.42.15:198][640]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2022.08.22-04.42.15:199][640]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.08.22-04.42.15:199][640]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.22-04.42.15:199][640]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.22-04.42.15:199][640]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.22-04.42.15:199][640]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.22-04.42.15:199][640]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.22-04.42.15:199][640]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.08.22-04.42.15:199][640]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.22-04.42.15:199][640]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.22-04.42.15:199][640]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.22-04.42.15:199][640]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.22-04.42.15:199][640]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.22-04.42.15:201][640]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.08.22-04.42.15:218][640]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Synaptics Audio)
+[2022.08.22-04.42.15:219][640]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.22-04.42.15:219][640]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.22-04.42.15:219][640]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.22-04.42.15:219][640]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2022.08.22-04.42.15:219][640]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2022.08.22-04.42.15:221][640]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2022.08.22-04.42.15:221][640]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2022.08.22-04.42.15:221][640]LogInit: FAudioDevice initialized.
+[2022.08.22-04.42.15:221][640]LogAudio: Display: Audio Device (ID: 2) registered with world 'ThirdPersonMap'.
+[2022.08.22-04.42.15:233][640]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.08.22-04.42.15:234][640]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2022.08.21-22.42.15
+[2022.08.22-04.42.15:234][640]LogWorld: Bringing up level for play took: 0.001375
+[2022.08.22-04.42.15:236][640]LogOnline: OSS: Created online subsystem instance for: :Context_7
+[2022.08.22-04.42.15:266][640]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=900.000 Y=1110.000 Z=92.013
+[2022.08.22-04.42.15:266][640]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.08.22-04.42.15:267][640]PIE: Server logged in
+[2022.08.22-04.42.15:267][640]PIE: Play in editor total start time 0.139 seconds.
+[2022.08.22-04.42.22:795][ 60]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.22-04.42.22:795][ 60]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2022.08.22-04.42.22:796][ 60]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2022.08.22-04.42.22:796][ 60]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.22-04.42.22:808][ 60]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.22-04.42.22:815][ 60]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.22-04.42.22:862][ 60]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.22-04.42.22:862][ 60]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.08.22-04.42.22:865][ 60]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.08.22-04.42.22:869][ 60]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.22-04.42.22:893][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2022.08.22-04.42.22:960][ 61]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2022.08.22-04.42.55:088][741]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2022.08.22-04.42.55:106][741]LogPackageLocalizationCache: Processed 30 localized package path(s) for 1 prioritized culture(s) in 0.007271 seconds
+[2022.08.22-04.42.55:109][741]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/55/ASJA5PDU8UQ76KKIGX3P1L_Auto1
+[2022.08.22-04.42.55:109][741]LogSavePackage: Moving '../../../../Users/Dalton/Documents/VrgitR/VrGame/ProtoTypeGame/InventorySystem/Saved/ASJA5PDU8UQ76KKIGX3P1L_Auto1F3B75D5A4457F5AEA976AEB7DF7940A3.tmp' to '../../../../Users/Dalton/Documents/VrgitR/VrGame/ProtoTypeGame/InventorySystem/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/55/ASJA5PDU8UQ76KKIGX3P1L_Auto1.uasset'
+[2022.08.22-04.42.55:114][741]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/JY/QOVT2XSINSU8UARZCVYT4T_Auto1
+[2022.08.22-04.42.55:114][741]LogSavePackage: Moving '../../../../Users/Dalton/Documents/VrgitR/VrGame/ProtoTypeGame/InventorySystem/Saved/QOVT2XSINSU8UARZCVYT4T_Auto10972166C4E19147EADA4F68C82E4A5F4.tmp' to '../../../../Users/Dalton/Documents/VrgitR/VrGame/ProtoTypeGame/InventorySystem/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/JY/QOVT2XSINSU8UARZCVYT4T_Auto1.uasset'
+[2022.08.22-04.42.55:115][741]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.075
+[2022.08.22-04.42.55:115][741]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.075
+[2022.08.22-04.43.58:336][931]LogDerivedDataCache: C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.161 and deleted 747 file(s) with total size 232 MiB.
+[2022.08.22-05.03.52:559][563]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2022.08.22-05.03.52:559][563]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.22-05.03.53:142][564]LogSlate: Took 0.004494 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.08.22-05.26.06:874][680]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2022.08.22-05.26.06:875][680]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.052
+[2022.08.22-05.26.06:876][680]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2022.08.22-05.26.06:920][680]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C]
+[2022.08.22-05.26.06:937][680]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2022.08.22-05.26.06:937][680]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2022.08.22-05.26.06:948][680]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto2
+[2022.08.22-05.26.06:948][680]LogSavePackage: Moving '../../../../Users/Dalton/Documents/VrgitR/VrGame/ProtoTypeGame/InventorySystem/Saved/BP_ThirdPersonCharacter_Auto233F1080441F46012864EFFB891BF0EAE.tmp' to '../../../../Users/Dalton/Documents/VrgitR/VrGame/ProtoTypeGame/InventorySystem/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto2.uasset'
+[2022.08.22-05.26.06:949][680]LogFileHelpers: Auto-saving content packages took 0.074
+[2022.08.22-05.43.57:871][929]LogDerivedDataCache: C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.862 and deleted 0 file(s) with total size 0 MiB.
+[2022.08.22-06.09.03:396][244]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2022.08.22-06.09.03:397][244]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.059
+[2022.08.22-06.09.03:398][244]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2022.08.22-06.09.03:426][244]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2022.08.22-06.09.03:426][244]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2022.08.22-06.09.03:439][244]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto3
+[2022.08.22-06.09.03:439][244]LogSavePackage: Moving '../../../../Users/Dalton/Documents/VrgitR/VrGame/ProtoTypeGame/InventorySystem/Saved/BP_ThirdPersonCharacter_Auto3AAD4C6C04CD09FDA148A22BF38287B6D.tmp' to '../../../../Users/Dalton/Documents/VrgitR/VrGame/ProtoTypeGame/InventorySystem/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto3.uasset'
+[2022.08.22-06.09.03:440][244]LogFileHelpers: Auto-saving content packages took 0.044
+[2022.08.22-06.43.57:682][187]LogDerivedDataCache: C:/Users/Dalton/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.696 and deleted 0 file(s) with total size 0 MiB.
+[2022.08.22-06.44.39:494][161]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.08.22-06.45.37:961][772]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2022.08.22-06.45.37:962][772]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.056
+[2022.08.22-06.45.37:962][772]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2022.08.22-06.45.37:991][772]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2022.08.22-06.45.37:991][772]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2022.08.22-06.45.38:005][772]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto4
+[2022.08.22-06.45.38:005][772]LogSavePackage: Moving '../../../../Users/Dalton/Documents/VrgitR/VrGame/ProtoTypeGame/InventorySystem/Saved/BP_ThirdPersonCharacter_Auto4863FD489429A8B8BE1CD5187A92C293B.tmp' to '../../../../Users/Dalton/Documents/VrgitR/VrGame/ProtoTypeGame/InventorySystem/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto4.uasset'
+[2022.08.22-06.45.38:007][772]LogFileHelpers: Auto-saving content packages took 0.046
+[2022.08.22-06.47.08:287][178]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.08.22-06.47.08:304][178]LogContentBrowser: Creating deferred item: NewFolder
+[2022.08.22-06.47.08:312][179]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2022.08.22-06.47.11:100][345]LogContentBrowser: Attempting asset rename: NewFolder -> Inventory
+[2022.08.22-06.47.11:100][345]LogContentBrowser: End creating deferred item NewFolder
+[2022.08.22-06.47.52:236][704]LogSlate: Window 'Pick Root Widget for New Widget Blueprint' being destroyed
+[2022.08.22-06.47.52:247][704]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2022.08.22-06.47.52:252][704]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2022.08.22-06.47.52:288][706]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2022.08.22-06.47.55:996][918]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> Inventory
+[2022.08.22-06.47.56:004][918]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2022.08.22-06.48.05:969][177]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.08.22-06.48.05:969][177]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.08.22-06.48.15:010][699]LogContentBrowser: Attempting asset rename: Inventory -> Inventory_widget
+[2022.08.22-06.48.15:034][699]LogMetaData: Removing '/Game/Inventory/Inventory_widget.SKEL_Inventory_widget_C' ref from Metadata '/Game/Inventory/Inventory.PackageMetaData'
+[2022.08.22-06.48.15:035][699]LogMetaData: Removing '/Game/Inventory/Inventory_widget.Inventory_widget_C' ref from Metadata '/Game/Inventory/Inventory.PackageMetaData'
+[2022.08.22-06.48.15:035][699]LogMetaData: Removing '/Game/Inventory/Inventory_widget.Inventory_widget:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Inventory/Inventory.PackageMetaData'
+[2022.08.22-06.48.15:035][699]LogMetaData: Removing '/Game/Inventory/Inventory_widget.Inventory_widget:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Inventory/Inventory.PackageMetaData'
+[2022.08.22-06.48.15:035][699]LogMetaData: Removing '/Game/Inventory/Inventory_widget.Inventory_widget:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Inventory/Inventory.PackageMetaData'
+[2022.08.22-06.48.15:128][699]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/Inventory_widget" FILE="../../../../Users/Dalton/Documents/VrgitR/VrGame/ProtoTypeGame/InventorySystem/Content/Inventory/Inventory_widget.uasset" SILENT=true
+[2022.08.22-06.48.15:130][699]LogSavePackage: Moving output files for package: /Game/Inventory/Inventory_widget
+[2022.08.22-06.48.15:130][699]LogSavePackage: Moving '../../../../Users/Dalton/Documents/VrgitR/VrGame/ProtoTypeGame/InventorySystem/Saved/Inventory_widgetD120905E47840E59A7ECDBB80D92BB64.tmp' to '../../../../Users/Dalton/Documents/VrgitR/VrGame/ProtoTypeGame/InventorySystem/Content/Inventory/Inventory_widget.uasset'
+[2022.08.22-06.48.15:232][699]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2022.08.22-06.48.15:292][699]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2022.08.22-06.48.15:352][699]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2022.08.22-06.48.15:361][699]AssetCheck: New page: Asset Save: Inventory_widget
+[2022.08.22-06.48.15:361][699]LogContentValidation: Display: Validating WidgetBlueprint /Game/Inventory/Inventory_widget.Inventory_widget
+[2022.08.22-06.48.37:701][ 24]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.08.22-06.48.39:667][ 24]LogSlate: Window 'Pick Root Widget for New Widget Blueprint' being destroyed
+[2022.08.22-06.48.39:675][ 24]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2022.08.22-06.48.39:680][ 24]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2022.08.22-06.48.39:688][ 25]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2022.08.22-06.48.52:974][770]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> InventoryEntry_widget
+[2022.08.22-06.48.52:981][770]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2022.08.22-06.49.21:718][138]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.08.22-06.49.23:457][138]LogSlate: Window 'Pick Root Widget for New Widget Blueprint' being destroyed
+[2022.08.22-06.49.23:466][138]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2022.08.22-06.49.23:470][138]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2022.08.22-06.49.23:479][139]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2022.08.22-06.49.35:218][826]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> InventoryDrag_Widget
+[2022.08.22-06.49.35:225][826]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2022.08.22-06.50.03:775][159]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.08.22-06.50.08:866][159]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.08.22-06.50.08:875][159]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.08.22-06.50.08:883][159]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.08.22-06.50.08:899][160]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2022.08.22-06.50.15:904][468]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Item
+[2022.08.22-06.50.15:908][468]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.08.22-06.50.28:181][ 53]LogContentBrowser: Attempting asset rename: BP_Item -> BP_ItemObject
+[2022.08.22-06.50.28:206][ 53]LogMetaData: Removing '/Game/Inventory/BP_ItemObject.SKEL_BP_ItemObject_C' ref from Metadata '/Game/Inventory/BP_Item.PackageMetaData'
+[2022.08.22-06.50.28:206][ 53]LogMetaData: Removing '/Game/Inventory/BP_ItemObject.BP_ItemObject_C' ref from Metadata '/Game/Inventory/BP_Item.PackageMetaData'
+[2022.08.22-06.50.28:300][ 53]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/BP_ItemObject" FILE="../../../../Users/Dalton/Documents/VrgitR/VrGame/ProtoTypeGame/InventorySystem/Content/Inventory/BP_ItemObject.uasset" SILENT=true
+[2022.08.22-06.50.28:302][ 53]LogSavePackage: Moving output files for package: /Game/Inventory/BP_ItemObject
+[2022.08.22-06.50.28:302][ 53]LogSavePackage: Moving '../../../../Users/Dalton/Documents/VrgitR/VrGame/ProtoTypeGame/InventorySystem/Saved/BP_ItemObject3C2BA4114C61E1A6B8A97C8797CEDD1B.tmp' to '../../../../Users/Dalton/Documents/VrgitR/VrGame/ProtoTypeGame/InventorySystem/Content/Inventory/BP_ItemObject.uasset'
+[2022.08.22-06.50.28:398][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2022.08.22-06.50.28:464][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2022.08.22-06.50.28:523][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2022.08.22-06.50.28:531][ 53]AssetCheck: New page: Asset Save: BP_ItemObject
+[2022.08.22-06.50.28:531][ 53]LogContentValidation: Display: Validating Blueprint /Game/Inventory/BP_ItemObject.BP_ItemObject
+[2022.08.22-06.51.22:506][343]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Inventory/Inventory_widget.Inventory_widget
+[2022.08.22-06.51.22:507][343]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.22-06.51.22:522][343]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.22-06.51.22:528][343]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2022.08.22-06.51.22:848][343]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.08.22-06.51.22:848][343]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.08.22-06.51.22:930][343]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find SlateColor 'Foreground'.'
+[2022.08.22-06.52.19:563][334]LogSlate: Window 'Color Picker' being destroyed
+[2022.08.22-06.52.34:770][990]LogSlate: Window 'Color Picker' being destroyed
+[2022.08.22-06.55.17:113][725]LogSlate: Took 0.007974 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2022.08.22-06.57.12:449][797]LogSlate: Window 'Color Picker' being destroyed
+[2022.08.22-06.57.59:909][515]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2022.08.22-06.57.59:911][515]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.091
+[2022.08.22-06.57.59:911][515]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2022.08.22-06.58.00:009][515]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2022.08.22-06.58.00:009][515]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2022.08.22-06.58.00:026][515]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto5
+[2022.08.22-06.58.00:026][515]LogSavePackage: Moving '../../../../Users/Dalton/Documents/VrgitR/VrGame/ProtoTypeGame/InventorySystem/Saved/BP_ThirdPersonCharacter_Auto514F0C4874539461EC1D6519151CB2CC7.tmp' to '../../../../Users/Dalton/Documents/VrgitR/VrGame/ProtoTypeGame/InventorySystem/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto5.uasset'
+[2022.08.22-06.58.00:029][515]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Inventory/Inventory_widget] ([2] browsable assets)...
+[2022.08.22-06.58.00:033][515]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Inventory/Inventory_widget.Inventory_widget]
+[2022.08.22-06.58.00:033][515]OBJ SavePackage: Finished generating thumbnails for package [/Game/Inventory/Inventory_widget]
+[2022.08.22-06.58.00:036][515]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Inventory/Inventory_widget_Auto5
+[2022.08.22-06.58.00:036][515]LogSavePackage: Moving '../../../../Users/Dalton/Documents/VrgitR/VrGame/ProtoTypeGame/InventorySystem/Saved/Inventory_widget_Auto573C2A7134FD0AEDAF040649FEFC436F2.tmp' to '../../../../Users/Dalton/Documents/VrgitR/VrGame/ProtoTypeGame/InventorySystem/Saved/Autosaves/Game/Inventory/Inventory_widget_Auto5.uasset'
+[2022.08.22-06.58.00:036][515]LogFileHelpers: Auto-saving content packages took 0.126
+[2022.08.22-06.59.25:322][ 92]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Inventory/InventoryEntry_widget.InventoryEntry_widget
+[2022.08.22-06.59.25:323][ 92]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.22-06.59.25:345][ 92]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.22-06.59.25:729][ 92]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.08.22-06.59.25:729][ 92]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.08.22-07.00.03:364][882]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.08.22-07.01.34:229][742]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.08.22-07.01.34:229][742]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.08.22-07.04.15:565][903]LogSlate: Window 'Color Picker' being destroyed
+[2022.08.22-07.04.32:183][245]BlueprintLog: New page: Compile InventoryEntry_widget
+[2022.08.22-07.04.32:297][245]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2022.08.22-07.04.32:914][270]LogSavePackage: Moving output files for package: /Game/Inventory/InventoryEntry_widget
+[2022.08.22-07.04.32:914][270]LogSavePackage: Moving '../../../../Users/Dalton/Documents/VrgitR/VrGame/ProtoTypeGame/InventorySystem/Saved/InventoryEntry_widgetD400364F4B0375698B2EBFA4B2013372.tmp' to '../../../../Users/Dalton/Documents/VrgitR/VrGame/ProtoTypeGame/InventorySystem/Content/Inventory/InventoryEntry_widget.uasset'
+[2022.08.22-07.04.32:934][270]AssetCheck: New page: Asset Save: InventoryEntry_widget
+[2022.08.22-07.04.32:934][270]LogContentValidation: Display: Validating WidgetBlueprint /Game/Inventory/InventoryEntry_widget.InventoryEntry_widget
+[2022.08.22-07.05.41:408][276]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.08.22-07.06.57:770][231]BlueprintLog: New page: Compile Inventory_widget
+[2022.08.22-07.06.57:869][231]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2022.08.22-07.06.59:104][286]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/Inventory_widget" FILE="../../../../Users/Dalton/Documents/VrgitR/VrGame/ProtoTypeGame/InventorySystem/Content/Inventory/Inventory_widget.uasset" SILENT=true
+[2022.08.22-07.06.59:107][286]LogSavePackage: Moving output files for package: /Game/Inventory/Inventory_widget
+[2022.08.22-07.06.59:108][286]LogSavePackage: Moving '../../../../Users/Dalton/Documents/VrgitR/VrGame/ProtoTypeGame/InventorySystem/Saved/Inventory_widget101D2C4749691F1307FD9988D958B09E.tmp' to '../../../../Users/Dalton/Documents/VrgitR/VrGame/ProtoTypeGame/InventorySystem/Content/Inventory/Inventory_widget.uasset'
+[2022.08.22-07.06.59:124][286]AssetCheck: New page: Asset Save: Inventory_widget
+[2022.08.22-07.06.59:124][286]LogContentValidation: Display: Validating WidgetBlueprint /Game/Inventory/Inventory_widget.Inventory_widget
+[2022.08.22-07.08.17:563][410]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2022.08.22-07.08.17:565][410]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.079
+[2022.08.22-07.08.17:565][410]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Inventory/Inventory_widget] ([2] browsable assets)...
+[2022.08.22-07.08.17:569][410]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Inventory/Inventory_widget.Inventory_widget]
+[2022.08.22-07.08.17:569][410]OBJ SavePackage: Finished generating thumbnails for package [/Game/Inventory/Inventory_widget]
+[2022.08.22-07.08.17:573][410]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Inventory/Inventory_widget_Auto6
+[2022.08.22-07.08.17:573][410]LogSavePackage: Moving '../../../../Users/Dalton/Documents/VrgitR/VrGame/ProtoTypeGame/InventorySystem/Saved/Inventory_widget_Auto65CFCB43B4CCD2FD9D4E57A8931F835CB.tmp' to '../../../../Users/Dalton/Documents/VrgitR/VrGame/ProtoTypeGame/InventorySystem/Saved/Autosaves/Game/Inventory/Inventory_widget_Auto6.uasset'
+[2022.08.22-07.08.17:573][410]LogFileHelpers: Auto-saving content packages took 0.008
+[2022.08.22-07.08.48:388][851]LogSlate: Took 0.014847 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2022.08.22-07.09.37:129][678]BlueprintLog: New page: Compile Inventory_widget
+[2022.08.22-07.09.37:235][678]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2022.08.22-07.09.38:108][721]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/Inventory_widget" FILE="../../../../Users/Dalton/Documents/VrgitR/VrGame/ProtoTypeGame/InventorySystem/Content/Inventory/Inventory_widget.uasset" SILENT=true
+[2022.08.22-07.09.38:112][721]LogSavePackage: Moving output files for package: /Game/Inventory/Inventory_widget
+[2022.08.22-07.09.38:113][721]LogSavePackage: Moving '../../../../Users/Dalton/Documents/VrgitR/VrGame/ProtoTypeGame/InventorySystem/Saved/Inventory_widgetFD1223FC4CD60DA41C1E8F9B0BDCFE88.tmp' to '../../../../Users/Dalton/Documents/VrgitR/VrGame/ProtoTypeGame/InventorySystem/Content/Inventory/Inventory_widget.uasset'
+[2022.08.22-07.09.38:130][721]AssetCheck: New page: Asset Save: Inventory_widget
+[2022.08.22-07.09.38:130][721]LogContentValidation: Display: Validating WidgetBlueprint /Game/Inventory/Inventory_widget.Inventory_widget
+[2022.08.22-07.11.25:338][689]BlueprintLog: New page: Compile Inventory_widget
+[2022.08.22-07.11.25:440][689]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2022.08.22-07.11.26:167][724]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/Inventory_widget" FILE="../../../../Users/Dalton/Documents/VrgitR/VrGame/ProtoTypeGame/InventorySystem/Content/Inventory/Inventory_widget.uasset" SILENT=true
+[2022.08.22-07.11.26:172][724]LogSavePackage: Moving output files for package: /Game/Inventory/Inventory_widget
+[2022.08.22-07.11.26:172][724]LogSavePackage: Moving '../../../../Users/Dalton/Documents/VrgitR/VrGame/ProtoTypeGame/InventorySystem/Saved/Inventory_widget55FADEFE4F9D350F6CADFA835E0481FE.tmp' to '../../../../Users/Dalton/Documents/VrgitR/VrGame/ProtoTypeGame/InventorySystem/Content/Inventory/Inventory_widget.uasset'
+[2022.08.22-07.11.26:190][724]AssetCheck: New page: Asset Save: Inventory_widget
+[2022.08.22-07.11.26:190][724]LogContentValidation: Display: Validating WidgetBlueprint /Game/Inventory/Inventory_widget.Inventory_widget
+[2022.08.22-07.11.27:929][817]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Inventory/BP_ItemObject.BP_ItemObject
+[2022.08.22-07.11.27:929][817]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.22-07.12.25:961][520]BlueprintLog: New page: Compile BP_ItemObject
+[2022.08.22-07.12.26:045][520]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2022.08.22-07.12.26:645][549]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/BP_ItemObject" FILE="../../../../Users/Dalton/Documents/VrgitR/VrGame/ProtoTypeGame/InventorySystem/Content/Inventory/BP_ItemObject.uasset" SILENT=true
+[2022.08.22-07.12.26:647][549]LogSavePackage: Moving output files for package: /Game/Inventory/BP_ItemObject
+[2022.08.22-07.12.26:648][549]LogSavePackage: Moving '../../../../Users/Dalton/Documents/VrgitR/VrGame/ProtoTypeGame/InventorySystem/Saved/BP_ItemObjectDF14465B40F21FEB456D50823F51CE9B.tmp' to '../../../../Users/Dalton/Documents/VrgitR/VrGame/ProtoTypeGame/InventorySystem/Content/Inventory/BP_ItemObject.uasset'
+[2022.08.22-07.12.26:666][549]AssetCheck: New page: Asset Save: BP_ItemObject
+[2022.08.22-07.12.26:666][549]LogContentValidation: Display: Validating Blueprint /Game/Inventory/BP_ItemObject.BP_ItemObject
+[2022.08.22-07.14.10:387][198]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.08.22-07.15.31:572][941]BlueprintLog: New page: Compile Inventory_widget
+[2022.08.22-07.15.31:681][941]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2022.08.22-07.15.32:304][969]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/Inventory_widget" FILE="../../../../Users/Dalton/Documents/VrgitR/VrGame/ProtoTypeGame/InventorySystem/Content/Inventory/Inventory_widget.uasset" SILENT=true
+[2022.08.22-07.15.32:309][969]LogSavePackage: Moving output files for package: /Game/Inventory/Inventory_widget
+[2022.08.22-07.15.32:309][969]LogSavePackage: Moving '../../../../Users/Dalton/Documents/VrgitR/VrGame/ProtoTypeGame/InventorySystem/Saved/Inventory_widgetD47FAD094F50CB9485A0ECB54CD2B4A7.tmp' to '../../../../Users/Dalton/Documents/VrgitR/VrGame/ProtoTypeGame/InventorySystem/Content/Inventory/Inventory_widget.uasset'
+[2022.08.22-07.15.32:328][969]AssetCheck: New page: Asset Save: Inventory_widget
+[2022.08.22-07.15.32:328][969]LogContentValidation: Display: Validating WidgetBlueprint /Game/Inventory/Inventory_widget.Inventory_widget
+[2022.08.22-07.19.56:107][898]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find source file and line number for 'UWidget::GetOwningPlayer' [Element not found.]
+[2022.08.22-07.20.34:879][215]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2022.08.22-07.20.34:880][215]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.098
+[2022.08.22-07.20.34:880][215]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Inventory/Inventory_widget] ([2] browsable assets)...
+[2022.08.22-07.20.34:885][215]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Inventory/Inventory_widget.Inventory_widget]
+[2022.08.22-07.20.34:885][215]OBJ SavePackage: Finished generating thumbnails for package [/Game/Inventory/Inventory_widget]
+[2022.08.22-07.20.34:903][215]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Inventory/Inventory_widget_Auto7
+[2022.08.22-07.20.34:903][215]LogSavePackage: Moving '../../../../Users/Dalton/Documents/VrgitR/VrGame/ProtoTypeGame/InventorySystem/Saved/Inventory_widget_Auto729AAFEC74894AE6D97E84081ECD7C6BC.tmp' to '../../../../Users/Dalton/Documents/VrgitR/VrGame/ProtoTypeGame/InventorySystem/Saved/Autosaves/Game/Inventory/Inventory_widget_Auto7.uasset'
+[2022.08.22-07.20.34:905][215]LogFileHelpers: Auto-saving content packages took 0.025
+[2022.08.22-07.20.53:574][708]BlueprintLog: New page: Compile Inventory_widget
+[2022.08.22-07.20.53:575][708]LogBlueprint: Error: [AssetLog] C:\Users\Dalton\Documents\VrgitR\VrGame\ProtoTypeGame\InventorySystem\Content\Inventory\Inventory_widget.uasset: [Compiler] This blueprint (self) is not a PlayerController, therefore ' Target ' must have a connection.
+[2022.08.22-07.20.53:577][708]LogBlueprint: Error: [AssetLog] C:\Users\Dalton\Documents\VrgitR\VrGame\ProtoTypeGame\InventorySystem\Content\Inventory\Inventory_widget.uasset: [Compiler] Variable node  Set bShowMouseCursor  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2022.08.22-07.20.53:680][708]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2022.08.22-07.20.54:918][773]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/Inventory_widget" FILE="../../../../Users/Dalton/Documents/VrgitR/VrGame/ProtoTypeGame/InventorySystem/Content/Inventory/Inventory_widget.uasset" SILENT=true
+[2022.08.22-07.20.54:925][773]LogSavePackage: Moving output files for package: /Game/Inventory/Inventory_widget
+[2022.08.22-07.20.54:926][773]LogSavePackage: Moving '../../../../Users/Dalton/Documents/VrgitR/VrGame/ProtoTypeGame/InventorySystem/Saved/Inventory_widgetEF8DB073467498E5D308D5BA4E4B878E.tmp' to '../../../../Users/Dalton/Documents/VrgitR/VrGame/ProtoTypeGame/InventorySystem/Content/Inventory/Inventory_widget.uasset'
+[2022.08.22-07.20.54:946][773]AssetCheck: New page: Asset Save: Inventory_widget
+[2022.08.22-07.20.54:946][773]LogContentValidation: Display: Validating WidgetBlueprint /Game/Inventory/Inventory_widget.Inventory_widget
+[2022.08.22-07.21.37:563][ 88]BlueprintLog: New page: Compile Inventory_widget
+[2022.08.22-07.21.37:674][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2022.08.22-07.23.41:346][915]BlueprintLog: New page: Compile Inventory_widget
+[2022.08.22-07.23.41:452][915]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2022.08.22-07.23.42:086][946]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/Inventory_widget" FILE="../../../../Users/Dalton/Documents/VrgitR/VrGame/ProtoTypeGame/InventorySystem/Content/Inventory/Inventory_widget.uasset" SILENT=true
+[2022.08.22-07.23.42:094][946]LogSavePackage: Moving output files for package: /Game/Inventory/Inventory_widget
+[2022.08.22-07.23.42:095][946]LogSavePackage: Moving '../../../../Users/Dalton/Documents/VrgitR/VrGame/ProtoTypeGame/InventorySystem/Saved/Inventory_widget41DB552A4FA2947593E9489BD41561BB.tmp' to '../../../../Users/Dalton/Documents/VrgitR/VrGame/ProtoTypeGame/InventorySystem/Content/Inventory/Inventory_widget.uasset'
+[2022.08.22-07.23.42:113][946]AssetCheck: New page: Asset Save: Inventory_widget
+[2022.08.22-07.23.42:113][946]LogContentValidation: Display: Validating WidgetBlueprint /Game/Inventory/Inventory_widget.Inventory_widget
+[2022.08.22-07.24.11:054][310]LogUObjectGlobals: Warning: Failed to find object 'Class None.Physics'
+[2022.08.22-07.25.05:747][894]LogSlate: Window 'Project Settings' being destroyed
+[2022.08.22-07.25.05:775][894]LogSlate: Window 'Project Settings' being destroyed
+[2022.08.22-07.27.24:601][364]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.08.22-07.30.56:235][980]LogUObjectHash: Compacting FUObjectHashTables data took   5.30ms
+[2022.08.22-07.30.56:238][980]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.130
+[2022.08.22-07.30.56:238][980]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2022.08.22-07.30.56:317][980]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2022.08.22-07.30.56:318][980]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2022.08.22-07.30.56:343][980]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto8
+[2022.08.22-07.30.56:343][980]LogSavePackage: Moving '../../../../Users/Dalton/Documents/VrgitR/VrGame/ProtoTypeGame/InventorySystem/Saved/BP_ThirdPersonCharacter_Auto8E0D958A94EAEB0C098DE9F8AE3CA0605.tmp' to '../../../../Users/Dalton/Documents/VrgitR/VrGame/ProtoTypeGame/InventorySystem/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto8.uasset'
+[2022.08.22-07.30.56:344][980]LogFileHelpers: Auto-saving content packages took 0.106
+[2022.08.22-07.31.20:740][146]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2022.08.22-07.31.20:911][146]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2022.08.22-07.31.21:614][173]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2022.08.22-07.31.21:615][173]LogSavePackage: Moving '../../../../Users/Dalton/Documents/VrgitR/VrGame/ProtoTypeGame/InventorySystem/Saved/BP_ThirdPersonCharacter244819E44C5B5257C526A6B8F0FB224D.tmp' to '../../../../Users/Dalton/Documents/VrgitR/VrGame/ProtoTypeGame/InventorySystem/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2022.08.22-07.31.21:637][173]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2022.08.22-07.31.21:637][173]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2022.08.22-07.34.21:663][365]BlueprintLog: New page: Compile Inventory_widget
+[2022.08.22-07.34.21:800][365]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2022.08.22-07.34.22:401][391]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/Inventory_widget" FILE="../../../../Users/Dalton/Documents/VrgitR/VrGame/ProtoTypeGame/InventorySystem/Content/Inventory/Inventory_widget.uasset" SILENT=true
+[2022.08.22-07.34.22:410][391]LogSavePackage: Moving output files for package: /Game/Inventory/Inventory_widget
+[2022.08.22-07.34.22:411][391]LogSavePackage: Moving '../../../../Users/Dalton/Documents/VrgitR/VrGame/ProtoTypeGame/InventorySystem/Saved/Inventory_widgetC7453D28405855ECD87C5096C9E79DFF.tmp' to '../../../../Users/Dalton/Documents/VrgitR/VrGame/ProtoTypeGame/InventorySystem/Content/Inventory/Inventory_widget.uasset'
+[2022.08.22-07.34.22:430][391]AssetCheck: New page: Asset Save: Inventory_widget
+[2022.08.22-07.34.22:430][391]LogContentValidation: Display: Validating WidgetBlueprint /Game/Inventory/Inventory_widget.Inventory_widget
+[2022.08.22-07.34.51:691][581]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.08.22-07.34.51:691][581]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.08.22-07.37.41:449][ 57]BlueprintLog: New page: Compile Inventory_widget
+[2022.08.22-07.37.41:577][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2022.08.22-07.37.42:278][ 76]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/Inventory_widget" FILE="../../../../Users/Dalton/Documents/VrgitR/VrGame/ProtoTypeGame/InventorySystem/Content/Inventory/Inventory_widget.uasset" SILENT=true
+[2022.08.22-07.37.42:286][ 76]LogSavePackage: Moving output files for package: /Game/Inventory/Inventory_widget
+[2022.08.22-07.37.42:287][ 76]LogSavePackage: Moving '../../../../Users/Dalton/Documents/VrgitR/VrGame/ProtoTypeGame/InventorySystem/Saved/Inventory_widgetCBD5F9BC40333A82833CD9941FCF0C33.tmp' to '../../../../Users/Dalton/Documents/VrgitR/VrGame/ProtoTypeGame/InventorySystem/Content/Inventory/Inventory_widget.uasset'
+[2022.08.22-07.37.42:309][ 76]AssetCheck: New page: Asset Save: Inventory_widget
+[2022.08.22-07.37.42:309][ 76]LogContentValidation: Display: Validating WidgetBlueprint /Game/Inventory/Inventory_widget.Inventory_widget
+[2022.08.22-07.37.44:131][173]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.08.22-07.37.44:141][173]LogWorldPartition: Display: GenerateStreaming started...
+[2022.08.22-07.37.44:141][173]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.08.22-07.37.44:141][173]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.08.22-07.37.44:141][173]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.08.22-07.37.44:141][173]LogWorldPartition: Display: ValidateSingleActorReferer took 1 us
+[2022.08.22-07.37.44:141][173]LogWorldPartition: Display: GetPartitionedActors took 106 us
+[2022.08.22-07.37.44:142][173]LogWorldPartition: Display: GenerateStreaming took 745 us
+[2022.08.22-07.37.44:142][173]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.08.22-07.37.44:143][173]LogPlayLevel: [PlayLevel] Compiling InventoryDrag_Widget before play...
+[2022.08.22-07.37.44:242][173]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2022.08.22-07.37.44:245][173]LogPlayLevel: PlayLevel: Blueprint regeneration took 103 ms (1 blueprints)
+[2022.08.22-07.37.44:246][173]PIE: New page: PIE session: ThirdPersonMap (Aug 21, 2022, 7:37:44 PM)
+[2022.08.22-07.37.44:289][173]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2022.08.22-07.37.44:293][173]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.08.22-07.37.44:293][173]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004155s)
+[2022.08.22-07.37.44:293][173]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.004245s)
+[2022.08.22-07.37.44:293][173]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.22-07.37.44:294][173]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2022.08.22-07.37.44:294][173]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.08.22-07.37.44:294][173]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.08.22-07.37.44:295][173]LogWorldPartition: Display: WorldPartition initialize took 994 us
+[2022.08.22-07.37.44:295][173]LogPlayLevel: PIE: World Init took: (0.002216s)
+[2022.08.22-07.37.44:377][173]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2022.08.22-07.37.44:378][173]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.08.22-07.37.44:378][173]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.22-07.37.44:378][173]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.22-07.37.44:378][173]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.22-07.37.44:378][173]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.22-07.37.44:378][173]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.22-07.37.44:378][173]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.08.22-07.37.44:378][173]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.22-07.37.44:378][173]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.22-07.37.44:378][173]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.22-07.37.44:378][173]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.22-07.37.44:378][173]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.22-07.37.44:380][173]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.08.22-07.37.44:397][173]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Synaptics Audio)
+[2022.08.22-07.37.44:398][173]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.22-07.37.44:398][173]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.22-07.37.44:398][173]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.22-07.37.44:398][173]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2022.08.22-07.37.44:399][173]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2022.08.22-07.37.44:400][173]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2022.08.22-07.37.44:400][173]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2022.08.22-07.37.44:400][173]LogInit: FAudioDevice initialized.
+[2022.08.22-07.37.44:400][173]LogAudio: Display: Audio Device (ID: 3) registered with world 'ThirdPersonMap'.
+[2022.08.22-07.37.44:408][173]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.08.22-07.37.44:410][173]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2022.08.22-01.37.44
+[2022.08.22-07.37.44:410][173]LogWorld: Bringing up level for play took: 0.001539
+[2022.08.22-07.37.44:411][173]LogOnline: OSS: Created online subsystem instance for: :Context_17
+[2022.08.22-07.37.44:414][173]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=900.000 Y=1110.000 Z=92.013
+[2022.08.22-07.37.44:414][173]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.08.22-07.37.44:415][173]PIE: Server logged in
+[2022.08.22-07.37.44:415][173]PIE: Play in editor total start time 0.278 seconds.
+[2022.08.22-07.37.45:611][239]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.08.22-07.37.45:611][239]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2022.08.22-07.37.46:135][270]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.08.22-07.37.46:135][270]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.08.22-07.37.46:511][293]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.08.22-07.37.46:511][293]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2022.08.22-07.37.48:426][408]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.08.22-07.37.48:426][408]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.08.22-07.37.52:038][619]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.08.22-07.37.52:038][619]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2022.08.22-07.37.52:510][647]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.08.22-07.37.52:510][647]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.08.22-07.37.53:339][695]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.22-07.37.53:339][695]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2022.08.22-07.37.53:339][695]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2022.08.22-07.37.53:340][695]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.22-07.37.53:354][695]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.22-07.37.53:364][695]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.22-07.37.53:448][695]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.22-07.37.53:448][695]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2022.08.22-07.37.53:451][695]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2022.08.22-07.37.53:458][695]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2022.08.22-07.37.53:527][696]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2022.08.22-07.37.57:015][889]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2022.08.22-07.37.57:145][889]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/55/ASJA5PDU8UQ76KKIGX3P1L
+[2022.08.22-07.37.57:145][889]LogSavePackage: Moving '../../../../Users/Dalton/Documents/VrgitR/VrGame/ProtoTypeGame/InventorySystem/Saved/ASJA5PDU8UQ76KKIGX3P1LD0B466C84F479314530E50B0474EC646.tmp' to '../../../../Users/Dalton/Documents/VrgitR/VrGame/ProtoTypeGame/InventorySystem/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/55/ASJA5PDU8UQ76KKIGX3P1L.uasset'
+[2022.08.22-07.37.57:150][889]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/JY/QOVT2XSINSU8UARZCVYT4T
+[2022.08.22-07.37.57:150][889]LogSavePackage: Moving '../../../../Users/Dalton/Documents/VrgitR/VrGame/ProtoTypeGame/InventorySystem/Saved/QOVT2XSINSU8UARZCVYT4T13477649400985BF7A31AB9C47C84E34.tmp' to '../../../../Users/Dalton/Documents/VrgitR/VrGame/ProtoTypeGame/InventorySystem/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/JY/QOVT2XSINSU8UARZCVYT4T.uasset'
+[2022.08.22-07.37.57:158][889]LogSavePackage: Moving output files for package: /Game/Inventory/InventoryDrag_Widget
+[2022.08.22-07.37.57:158][889]LogSavePackage: Moving '../../../../Users/Dalton/Documents/VrgitR/VrGame/ProtoTypeGame/InventorySystem/Saved/InventoryDrag_Widget88714CDB419093CAAC2DA6A993DF81AC.tmp' to '../../../../Users/Dalton/Documents/VrgitR/VrGame/ProtoTypeGame/InventorySystem/Content/Inventory/InventoryDrag_Widget.uasset'
+[2022.08.22-07.37.57:202][889]AssetCheck: New page: Asset Save: multiple assets
+[2022.08.22-07.37.57:202][889]LogContentValidation: Display: Validating BP_FlashLight_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_FlashLight_C_UAID_94E6F7211C26FD2E01_1221033263
+[2022.08.22-07.37.57:202][889]LogContentValidation: Display: Validating BP_Sword_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Sword_C_UAID_94E6F7211C26FD2E01_1222951264
+[2022.08.22-07.37.57:202][889]LogContentValidation: Display: Validating WidgetBlueprint /Game/Inventory/InventoryDrag_Widget.InventoryDrag_Widget
