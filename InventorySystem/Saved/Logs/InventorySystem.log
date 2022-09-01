@@ -1396,3 +1396,14 @@ Script call stack:
 [2022.09.01-04.45.38:175][251]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Characters/Enemies/BaseEnemy.BaseEnemy_C:UserConstructionScript'!
 [2022.09.01-04.45.38:177][251]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Characters/Enemies/BaseEnemy.BaseEnemy_C:UserConstructionScript'!
 [2022.09.01-04.45.38:178][251]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Characters/Enemies/BaseEnemy.BaseEnemy_C:UserConstructionScript'!
+[2022.09.01-04.49.11:832][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2022.09.01-04.49.12:059][ 33]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_Player
+[2022.09.01-04.49.12:060][ 33]LogSavePackage: Moving '../../../../../../Users/Spencer/Documents/GitHub/ProtoTypeGame/InventorySystem/Saved/BP_Player755CD1B4433B855EF1A66EBBC1054D9B.tmp' to '../../../../../../Users/Spencer/Documents/GitHub/ProtoTypeGame/InventorySystem/Content/ThirdPerson/Blueprints/BP_Player.uasset'
+[2022.09.01-04.49.12:080][ 33]AssetCheck: New page: Asset Save: BP_Player
+[2022.09.01-04.49.12:080][ 33]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/Blueprints/BP_Player.BP_Player
+[2022.09.01-04.49.55:969][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.09.01-04.50.10:501][358]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.09.01-04.50.10:640][358]LogSavePackage: Moving output files for package: /Game/Characters/Enemies/BaseEnemy
+[2022.09.01-04.50.10:641][358]LogSavePackage: Moving '../../../../../../Users/Spencer/Documents/GitHub/ProtoTypeGame/InventorySystem/Saved/BaseEnemyABB116AC47EAB4E6F13B40A87292C8C0.tmp' to '../../../../../../Users/Spencer/Documents/GitHub/ProtoTypeGame/InventorySystem/Content/Characters/Enemies/BaseEnemy.uasset'
+[2022.09.01-04.50.10:658][358]AssetCheck: New page: Asset Save: BaseEnemy
+[2022.09.01-04.50.10:658][358]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/BaseEnemy.BaseEnemy
