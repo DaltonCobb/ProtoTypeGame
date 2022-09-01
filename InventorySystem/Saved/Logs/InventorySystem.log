@@ -2408,3 +2408,41 @@ Recommended: 516.25
 [2022.09.01-06.55.06:875][273]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2022.09.01-06.55.06:924][273]LogPlayLevel: Display: Shutting down PIE online subsystems
 [2022.09.01-06.55.06:938][273]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.01-06.55.25:308][273]LogMeshUtilities: Finished distance field build in 19.8s - 126x126x126 sparse distance field, 2.0Mb total, 0.1Mb always loaded, 55% occupied, 42336 triangles, StaticMesh_HLOD0_Instancing_8
+[2022.09.01-06.55.25:308][273]LogMeshUtilities: Finished distance field build in 20.2s - 126x126x126 sparse distance field, 2.0Mb total, 0.1Mb always loaded, 55% occupied, 42336 triangles, StaticMesh_HLOD0_Instancing_6
+[2022.09.01-06.55.25:308][273]LogMeshUtilities: Finished distance field build in 22.5s - 126x126x126 sparse distance field, 2.4Mb total, 0.1Mb always loaded, 69% occupied, 42336 triangles, StaticMesh_HLOD0_Instancing_7
+[2022.09.01-06.55.25:308][273]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.01-06.55.25:316][273]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2022.09.01-06.55.25:320][273]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2022.09.01-06.55.25:346][273]LogUObjectHash: Compacting FUObjectHashTables data took   4.01ms
+[2022.09.01-06.55.25:540][274]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2022.09.01-06.56.41:506][954]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2022.09.01-06.56.42:777][954]LogSlate: Window 'Save Content' being destroyed
+[2022.09.01-06.56.42:907][954]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/MainWorld/9/VN/MIU8SD9UYRIXE11FJ5ZOGE
+[2022.09.01-06.56.42:908][954]LogSavePackage: Moving '../../../../../../Users/somer/Desktop/ProtoTypeGame/InventorySystem/Saved/MIU8SD9UYRIXE11FJ5ZOGE5058F3CA460F98E0826B98807DC14620.tmp' to '../../../../../../Users/somer/Desktop/ProtoTypeGame/InventorySystem/Content/__ExternalActors__/Maps/MainWorld/9/VN/MIU8SD9UYRIXE11FJ5ZOGE.uasset'
+[2022.09.01-06.56.43:041][954]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Dungeon.Dungeon
+[2022.09.01-06.56.43:041][954]Cmd: MAP LOAD FILE="../../../../../../Users/somer/Desktop/ProtoTypeGame/InventorySystem/Content/Maps/Dungeon.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.09.01-06.56.43:042][954]LightingResults: New page: Lighting Build
+[2022.09.01-06.56.43:042][954]LoadErrors: New page: Loading map: Dungeon.umap
+[2022.09.01-06.56.43:072][954]LogWorld: UWorld::CleanupWorld for MainWorld, bSessionEnded=true, bCleanupResources=true
+[2022.09.01-06.56.43:072][954]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.01-06.56.43:077][954]MapCheck: New page: Map Check
+[2022.09.01-06.56.43:077][954]LightingResults: New page: Lighting Build
+[2022.09.01-06.56.43:112][954]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.09.01-06.56.43:130][954]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2022.09.01-06.56.43:136][954]LogWorld: UWorld::CleanupWorld for Dungeon, bSessionEnded=true, bCleanupResources=true
+[2022.09.01-06.56.43:136][954]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.01-06.56.43:170][954]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2022.09.01-06.56.43:206][954]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2022.09.01-06.56.43:225][954]LogAudio: Display: Audio Device (ID: 1) registered with world 'Dungeon'.
+[2022.09.01-06.56.43:225][954]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.09.01-06.56.43:225][954]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.01-06.56.43:226][954]LogAIModule: Creating AISystem for world Dungeon
+[2022.09.01-06.56.43:240][954]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.09.01-06.56.43:288][954]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2022.09.01-06.56.43:300][954]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.09.01-06.56.43:300][954]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.241ms to complete.
+[2022.09.01-06.56.43:300][954]LogFileHelpers: Loading map 'Dungeon' took 0.259
+[2022.09.01-06.56.43:337][954]AssetCheck: New page: Asset Save: DungeonEnter_C_UAID_482AE35CD0C2283201_1761086000
+[2022.09.01-06.56.43:337][954]LogContentValidation: Display: Validating DungeonEnter_C /Game/Maps/MainWorld.MainWorld:PersistentLevel.DungeonEnter_C_UAID_482AE35CD0C2283201_1761086000
+[2022.09.01-06.56.43:345][954]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Maps/MainWorld.MainWorld:PersistentLevel.DungeonEnter_C_UAID_482AE35CD0C2283201_1761086000'
