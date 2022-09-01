@@ -2766,3 +2766,285 @@ Recommended: 516.25
 [2022.09.01-07.15.17:799][852]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 37220352 while cooking SoundWave /Game/Sounds/Drums_of_Drakkar_Viking_and_medieval_music.Drums_of_Drakkar_Viking_and_medieval_music.
 [2022.09.01-07.15.17:809][852]LogAudio: Display: Chunk size for SoundWave /Game/Sounds/Drums_of_Drakkar_Viking_and_medieval_music.Drums_of_Drakkar_Viking_and_medieval_music: 262144
 [2022.09.01-07.15.17:847][852]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SViewport [SEditorViewport.cpp(55)].
+[2022.09.01-07.17.47:204][553]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.09.01-07.17.47:216][553]LogWorldPartition: Display: GenerateStreaming started...
+[2022.09.01-07.17.47:216][553]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.09.01-07.17.47:216][553]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.09.01-07.17.47:216][553]LogWorldPartition: Display: ValidateSingleActorReferer took 11 us
+[2022.09.01-07.17.47:216][553]LogWorldPartition: Display: GetPartitionedActors took 100 us
+[2022.09.01-07.17.47:318][553]LogWorldPartition: Display: GenerateStreaming took 101 ms
+[2022.09.01-07.17.47:318][553]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.01-07.17.47:319][553]PIE: New page: PIE session: MainWorld (Aug 31, 2022, 7:17:47 PM)
+[2022.09.01-07.17.47:319][553]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainWorld
+[2022.09.01-07.17.47:376][553]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.09.01-07.17.47:377][553]LogPlayLevel: PIE: StaticDuplicateObject took: (0.058497s)
+[2022.09.01-07.17.47:377][553]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainWorld.MainWorld to /Game/Maps/UEDPIE_0_MainWorld.MainWorld (0.058630s)
+[2022.09.01-07.17.47:378][553]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.01-07.17.47:378][553]LogAIModule: Creating AISystem for world MainWorld
+[2022.09.01-07.17.47:379][553]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.09.01-07.17.47:380][553]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.09.01-07.17.47:392][553]LogWorldPartition: Display: WorldPartition initialize took 12 ms
+[2022.09.01-07.17.47:392][553]LogPlayLevel: PIE: World Init took: (0.014530s)
+[2022.09.01-07.17.47:442][553]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2022.09.01-07.17.47:444][553]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2022.09.01-07.17.47:444][553]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.09.01-07.17.47:444][553]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.09.01-07.17.47:444][553]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.09.01-07.17.47:444][553]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.09.01-07.17.47:444][553]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.09.01-07.17.47:444][553]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.09.01-07.17.47:444][553]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.09.01-07.17.47:444][553]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.09.01-07.17.47:445][553]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.09.01-07.17.47:445][553]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.09.01-07.17.47:445][553]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.09.01-07.17.47:448][553]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.09.01-07.17.47:471][553]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Synaptics Audio)
+[2022.09.01-07.17.47:472][553]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.09.01-07.17.47:472][553]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.09.01-07.17.47:472][553]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.09.01-07.17.47:472][553]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2022.09.01-07.17.47:472][553]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2022.09.01-07.17.47:475][553]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2022.09.01-07.17.47:475][553]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2022.09.01-07.17.47:475][553]LogInit: FAudioDevice initialized.
+[2022.09.01-07.17.47:475][553]LogAudio: Display: Audio Device (ID: 14) registered with world 'MainWorld'.
+[2022.09.01-07.17.47:487][553]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.09.01-07.17.47:494][553]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainWorld.MainWorld up for play (max tick rate 60) at 2022.09.01-01.17.47
+[2022.09.01-07.17.47:495][553]LogWorld: Bringing up level for play took: 0.007231
+[2022.09.01-07.17.47:497][553]LogOnline: OSS: Created online subsystem instance for: :Context_23
+[2022.09.01-07.17.47:501][553]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=3622.029 Y=6925.350 Z=5867.853
+[2022.09.01-07.17.47:501][553]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(25), CellsToLoad(0), CellsToUnload(0)
+[2022.09.01-07.17.47:501][553]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=3622.029 Y=6925.350 Z=5867.853,P=0.000000 Y=133.632842 R=-0.000000
+[2022.09.01-07.17.47:606][553]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/MainWorld/E/FS/XN3P6YH094RBY0ZJU2LGJ8.StaticMesh_HLOD0_Instancing_9 being ready before playing
+[2022.09.01-07.17.47:606][553]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/MainWorld/E/FS/XN3P6YH094RBY0ZJU2LGJ8.StaticMesh_HLOD0_Instancing_8 being ready before playing
+[2022.09.01-07.17.47:606][553]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/MainWorld/E/FS/XN3P6YH094RBY0ZJU2LGJ8.StaticMesh_HLOD0_Instancing_7 being ready before playing
+[2022.09.01-07.17.47:606][553]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/MainWorld/E/FS/XN3P6YH094RBY0ZJU2LGJ8.StaticMesh_HLOD0_Instancing_6 being ready before playing
+[2022.09.01-07.17.47:606][553]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/MainWorld/E/FS/XN3P6YH094RBY0ZJU2LGJ8.StaticMesh_HLOD0_Instancing_11 being ready before playing
+[2022.09.01-07.17.47:606][553]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/MainWorld/E/FS/XN3P6YH094RBY0ZJU2LGJ8.StaticMesh_HLOD0_Instancing_10 being ready before playing
+[2022.09.01-07.17.47:606][553]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/MainWorld/E/8D/KRI3DM11VT7VSX2GLRQ1FL.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2022.09.01-07.17.47:606][553]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/MainWorld/D/YM/X2B5ISR985VF04IU99KDC7.StaticMesh_HLOD0_Instancing_5 being ready before playing
+[2022.09.01-07.17.47:606][553]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/MainWorld/D/YM/X2B5ISR985VF04IU99KDC7.StaticMesh_HLOD0_Instancing_4 being ready before playing
+[2022.09.01-07.17.47:606][553]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/MainWorld/D/4Y/HXLFPV46QRYGOJLQ75A67W.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2022.09.01-07.17.47:606][553]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/MainWorld/C/L5/56R3FKY6IUL413ILXDUCXL.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2022.09.01-07.17.47:606][553]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/MainWorld/C/6Q/7FM65A9SKQDISIJG8E6P6L.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2022.09.01-07.17.47:606][553]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/MainWorld/B/DE/U33PR001FWF73933DU64QS.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2022.09.01-07.17.47:606][553]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/MainWorld/B/DE/U33PR001FWF73933DU64QS.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2022.09.01-07.17.47:606][553]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/MainWorld/B/1T/6M6I6E6ZM28JN3UP1YLSPJ.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2022.09.01-07.17.47:606][553]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/MainWorld/A/CM/PFLUQLGYGTT6FY44ESXI8D.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2022.09.01-07.17.47:606][553]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/MainWorld/9/E2/M0VLL404A6HKSE9IV4K7H1.StaticMesh_HLOD0_Instancing_9 being ready before playing
+[2022.09.01-07.17.47:606][553]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/MainWorld/9/E2/M0VLL404A6HKSE9IV4K7H1.StaticMesh_HLOD0_Instancing_8 being ready before playing
+[2022.09.01-07.17.47:606][553]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/MainWorld/9/E2/M0VLL404A6HKSE9IV4K7H1.StaticMesh_HLOD0_Instancing_7 being ready before playing
+[2022.09.01-07.17.47:606][553]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/MainWorld/9/E2/M0VLL404A6HKSE9IV4K7H1.StaticMesh_HLOD0_Instancing_13 being ready before playing
+[2022.09.01-07.17.47:606][553]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/MainWorld/9/E2/M0VLL404A6HKSE9IV4K7H1.StaticMesh_HLOD0_Instancing_12 being ready before playing
+[2022.09.01-07.17.47:606][553]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/MainWorld/9/E2/M0VLL404A6HKSE9IV4K7H1.StaticMesh_HLOD0_Instancing_11 being ready before playing
+[2022.09.01-07.17.47:606][553]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/MainWorld/9/E2/M0VLL404A6HKSE9IV4K7H1.StaticMesh_HLOD0_Instancing_10 being ready before playing
+[2022.09.01-07.17.47:606][553]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/MainWorld/9/0N/5OGIUVL1ZHG2KZAC48BALO.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2022.09.01-07.17.47:606][553]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/MainWorld/9/0N/5OGIUVL1ZHG2KZAC48BALO.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2022.09.01-07.17.47:606][553]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/MainWorld/7/5P/NRKQ9673TVWL5284NDMR0F.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2022.09.01-07.17.47:606][553]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/MainWorld/7/5P/NRKQ9673TVWL5284NDMR0F.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2022.09.01-07.17.47:606][553]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/MainWorld/6/GW/RXE7AHSX5EYC70C3GVGTKN.StaticMesh_HLOD0_Instancing_5 being ready before playing
+[2022.09.01-07.17.47:606][553]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/MainWorld/6/GW/RXE7AHSX5EYC70C3GVGTKN.StaticMesh_HLOD0_Instancing_4 being ready before playing
+[2022.09.01-07.17.47:606][553]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/MainWorld/6/GW/RXE7AHSX5EYC70C3GVGTKN.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2022.09.01-07.17.47:606][553]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/MainWorld/6/52/JKUHUCDUG8W7NCU6KVOKUI.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2022.09.01-07.17.47:606][553]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/MainWorld/5/GV/JBI8W63EY5MTD914P5O0BL.StaticMesh_HLOD0_Instancing_9 being ready before playing
+[2022.09.01-07.17.47:606][553]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/MainWorld/5/GV/JBI8W63EY5MTD914P5O0BL.StaticMesh_HLOD0_Instancing_8 being ready before playing
+[2022.09.01-07.17.47:606][553]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/MainWorld/5/GV/JBI8W63EY5MTD914P5O0BL.StaticMesh_HLOD0_Instancing_7 being ready before playing
+[2022.09.01-07.17.47:606][553]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/MainWorld/5/GV/JBI8W63EY5MTD914P5O0BL.StaticMesh_HLOD0_Instancing_6 being ready before playing
+[2022.09.01-07.17.47:606][553]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/MainWorld/5/GV/JBI8W63EY5MTD914P5O0BL.StaticMesh_HLOD0_Instancing_11 being ready before playing
+[2022.09.01-07.17.47:606][553]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/MainWorld/5/GV/JBI8W63EY5MTD914P5O0BL.StaticMesh_HLOD0_Instancing_10 being ready before playing
+[2022.09.01-07.17.47:606][553]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/MainWorld/3/23/QGRXW658C9ANIYZMGIYTHD.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2022.09.01-07.17.47:606][553]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/MainWorld/3/1P/TI5VCO3E7N8203REBB969E.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2022.09.01-07.17.47:607][553]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/MainWorld/2/90/PMOTXJEN6RXIQGVNX45FGD.StaticMesh_HLOD0_Instancing_9 being ready before playing
+[2022.09.01-07.17.47:607][553]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/MainWorld/2/90/PMOTXJEN6RXIQGVNX45FGD.StaticMesh_HLOD0_Instancing_8 being ready before playing
+[2022.09.01-07.17.47:607][553]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/MainWorld/2/90/PMOTXJEN6RXIQGVNX45FGD.StaticMesh_HLOD0_Instancing_7 being ready before playing
+[2022.09.01-07.17.47:607][553]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/MainWorld/2/90/PMOTXJEN6RXIQGVNX45FGD.StaticMesh_HLOD0_Instancing_6 being ready before playing
+[2022.09.01-07.17.47:607][553]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/MainWorld/2/90/PMOTXJEN6RXIQGVNX45FGD.StaticMesh_HLOD0_Instancing_5 being ready before playing
+[2022.09.01-07.17.47:607][553]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/MainWorld/2/6G/D68CPWTYGJDLQLIHYVRRI8.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2022.09.01-07.17.47:607][553]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/MainWorld/2/6G/D68CPWTYGJDLQLIHYVRRI8.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2022.09.01-07.17.47:607][553]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/MainWorld/2/VE/443H6YSJ6IC31HB955B22S.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2022.09.01-07.17.47:607][553]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/MainWorld/2/VE/443H6YSJ6IC31HB955B22S.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2022.09.01-07.17.47:607][553]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/MainWorld/0/9H/IXJ8O4UO657L1W4XMVWVF5.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2022.09.01-07.17.47:666][553]LogStreaming: Display: FlushAsyncLoading: 47 QueuedPackages, 0 AsyncPackages
+[2022.09.01-07.17.48:273][553]PIE: Server logged in
+[2022.09.01-07.17.48:275][553]PIE: Play in editor total start time 1.063 seconds.
+[2022.09.01-07.18.02:470][791]LogMeshUtilities: Finished distance field build in 14.8s - 126x126x126 sparse distance field, 1.7Mb total, 0.1Mb always loaded, 45% occupied, 42336 triangles, StaticMesh_HLOD0_Instancing_2
+[2022.09.01-07.18.04:721][829]LogMeshUtilities: Finished distance field build in 17.1s - 126x126x126 sparse distance field, 1.9Mb total, 0.1Mb always loaded, 53% occupied, 42336 triangles, StaticMesh_HLOD0_Instancing_11
+[2022.09.01-07.18.05:491][844]LogMeshUtilities: Finished distance field build in 17.8s - 126x126x126 sparse distance field, 2.0Mb total, 0.1Mb always loaded, 55% occupied, 42336 triangles, StaticMesh_HLOD0_Instancing_6
+[2022.09.01-07.18.11:440][953]LogNet: Browse: /Game/Maps/Dungeon
+[2022.09.01-07.18.11:440][953]LogLoad: LoadMap: /Game/Maps/Dungeon
+[2022.09.01-07.18.11:441][953]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainWorld
+[2022.09.01-07.18.11:443][953]LogWorld: UWorld::CleanupWorld for MainWorld, bSessionEnded=true, bCleanupResources=true
+[2022.09.01-07.18.11:625][953]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.01-07.18.11:626][953]LogWorld: UWorld::CleanupWorld for MainWorld, bSessionEnded=true, bCleanupResources=true
+[2022.09.01-07.18.11:626][953]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.01-07.18.11:627][953]LogWorld: UWorld::CleanupWorld for MainWorld, bSessionEnded=true, bCleanupResources=true
+[2022.09.01-07.18.11:627][953]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.01-07.18.11:627][953]LogWorld: UWorld::CleanupWorld for MainWorld, bSessionEnded=true, bCleanupResources=true
+[2022.09.01-07.18.11:627][953]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.01-07.18.11:627][953]LogWorld: UWorld::CleanupWorld for MainWorld, bSessionEnded=true, bCleanupResources=true
+[2022.09.01-07.18.11:627][953]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.01-07.18.11:627][953]LogWorld: UWorld::CleanupWorld for MainWorld, bSessionEnded=true, bCleanupResources=true
+[2022.09.01-07.18.11:627][953]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.01-07.18.11:628][953]LogWorld: UWorld::CleanupWorld for MainWorld, bSessionEnded=true, bCleanupResources=true
+[2022.09.01-07.18.11:628][953]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.01-07.18.11:628][953]LogWorld: UWorld::CleanupWorld for MainWorld, bSessionEnded=true, bCleanupResources=true
+[2022.09.01-07.18.11:628][953]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.01-07.18.11:628][953]LogWorld: UWorld::CleanupWorld for MainWorld, bSessionEnded=true, bCleanupResources=true
+[2022.09.01-07.18.11:628][953]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.01-07.18.11:628][953]LogWorld: UWorld::CleanupWorld for MainWorld, bSessionEnded=true, bCleanupResources=true
+[2022.09.01-07.18.11:628][953]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.01-07.18.11:628][953]LogWorld: UWorld::CleanupWorld for MainWorld, bSessionEnded=true, bCleanupResources=true
+[2022.09.01-07.18.11:629][953]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.01-07.18.11:629][953]LogWorld: UWorld::CleanupWorld for MainWorld, bSessionEnded=true, bCleanupResources=true
+[2022.09.01-07.18.11:629][953]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.01-07.18.11:629][953]LogWorld: UWorld::CleanupWorld for MainWorld, bSessionEnded=true, bCleanupResources=true
+[2022.09.01-07.18.11:629][953]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.01-07.18.11:629][953]LogWorld: UWorld::CleanupWorld for MainWorld, bSessionEnded=true, bCleanupResources=true
+[2022.09.01-07.18.11:629][953]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.01-07.18.11:629][953]LogWorld: UWorld::CleanupWorld for MainWorld, bSessionEnded=true, bCleanupResources=true
+[2022.09.01-07.18.11:629][953]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.01-07.18.11:629][953]LogWorld: UWorld::CleanupWorld for MainWorld, bSessionEnded=true, bCleanupResources=true
+[2022.09.01-07.18.11:629][953]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.01-07.18.11:630][953]LogWorld: UWorld::CleanupWorld for MainWorld, bSessionEnded=true, bCleanupResources=true
+[2022.09.01-07.18.11:630][953]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.01-07.18.11:630][953]LogWorld: UWorld::CleanupWorld for MainWorld, bSessionEnded=true, bCleanupResources=true
+[2022.09.01-07.18.11:630][953]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.01-07.18.11:630][953]LogWorld: UWorld::CleanupWorld for MainWorld, bSessionEnded=true, bCleanupResources=true
+[2022.09.01-07.18.11:630][953]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.01-07.18.11:630][953]LogWorld: UWorld::CleanupWorld for MainWorld, bSessionEnded=true, bCleanupResources=true
+[2022.09.01-07.18.11:630][953]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.01-07.18.11:630][953]LogWorld: UWorld::CleanupWorld for MainWorld, bSessionEnded=true, bCleanupResources=true
+[2022.09.01-07.18.11:631][953]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.01-07.18.11:631][953]LogWorld: UWorld::CleanupWorld for MainWorld, bSessionEnded=true, bCleanupResources=true
+[2022.09.01-07.18.11:631][953]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.01-07.18.11:631][953]LogWorld: UWorld::CleanupWorld for MainWorld, bSessionEnded=true, bCleanupResources=true
+[2022.09.01-07.18.11:631][953]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.01-07.18.11:631][953]LogWorld: UWorld::CleanupWorld for MainWorld, bSessionEnded=true, bCleanupResources=true
+[2022.09.01-07.18.11:631][953]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.01-07.18.11:631][953]LogWorld: UWorld::CleanupWorld for MainWorld, bSessionEnded=true, bCleanupResources=true
+[2022.09.01-07.18.11:631][953]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.01-07.18.11:774][953]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.09.01-07.18.11:823][953]LogUObjectHash: Compacting FUObjectHashTables data took   8.23ms
+[2022.09.01-07.18.11:838][953]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Dungeon
+[2022.09.01-07.18.11:913][953]LogPlayLevel: PIE: StaticDuplicateObject took: (0.075605s)
+[2022.09.01-07.18.11:913][953]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Dungeon.Dungeon to /Game/Maps/UEDPIE_0_Dungeon.Dungeon (0.075968s)
+[2022.09.01-07.18.11:914][953]LogAudio: Display: Audio Device (ID: 14) registered with world 'Dungeon'.
+[2022.09.01-07.18.11:914][953]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.09.01-07.18.11:914][953]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.01-07.18.11:915][953]LogAIModule: Creating AISystem for world Dungeon
+[2022.09.01-07.18.11:916][953]LogPlayLevel: PIE: World Init took: (0.002819s)
+[2022.09.01-07.18.11:917][953]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.09.01-07.18.11:939][953]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Dungeon.Dungeon up for play (max tick rate 60) at 2022.09.01-01.18.11
+[2022.09.01-07.18.11:941][953]LogWorld: Bringing up level for play took: 0.024156
+[2022.09.01-07.18.11:956][953]LogLoad: Took 0.515176 seconds to LoadMap(/Game/Maps/UEDPIE_0_Dungeon)
+[2022.09.01-07.18.18:873][ 54]LogMeshUtilities: Finished distance field build in 14.0s - 126x126x126 sparse distance field, 2.0Mb total, 0.1Mb always loaded, 55% occupied, 42336 triangles, StaticMesh_HLOD0_Instancing_8
+[2022.09.01-07.18.41:869][532]LogMeshUtilities: Finished distance field build in 30.3s - 126x126x126 sparse distance field, 2.4Mb total, 0.1Mb always loaded, 69% occupied, 42336 triangles, StaticMesh_HLOD0_Instancing_7
+[2022.09.01-07.18.42:606][550]LogMeshUtilities: Finished distance field build in 31.1s - 126x126x105 sparse distance field, 2.8Mb total, 0.0Mb always loaded, 100% occupied, 42336 triangles, StaticMesh_HLOD0_Instancing_5
+[2022.09.01-07.18.43:972][583]LogMeshUtilities: Finished mesh card build in 2.0s StaticMesh_HLOD0_Instancing_10 tris:42336
+[2022.09.01-07.18.50:510][691]LogMeshUtilities: Finished mesh card build in 1.2s StaticMesh_HLOD0_Instancing_5 tris:42336
+[2022.09.01-07.18.51:504][714]LogMeshUtilities: Finished mesh card build in 2.1s StaticMesh_HLOD0_Instancing_8 tris:42336
+[2022.09.01-07.18.52:777][740]LogMeshUtilities: Finished distance field build in 10.8s - 126x126x126 sparse distance field, 1.5Mb total, 0.1Mb always loaded, 40% occupied, 42336 triangles, StaticMesh_HLOD0_Instancing_4
+[2022.09.01-07.18.52:817][741]LogMeshUtilities: Finished mesh card build in 1.0s StaticMesh_HLOD0_Instancing_1 tris:42336
+[2022.09.01-07.18.53:389][761]LogMeshUtilities: Finished mesh card build in 1.6s StaticMesh_HLOD0_Instancing_3 tris:42336
+[2022.09.01-07.18.54:736][797]LogMeshUtilities: Finished mesh card build in 1.3s StaticMesh_HLOD0_Instancing_9 tris:42336
+[2022.09.01-07.19.09:048][131]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.01-07.19.09:048][131]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Dungeon
+[2022.09.01-07.19.09:050][131]LogWorld: UWorld::CleanupWorld for Dungeon, bSessionEnded=true, bCleanupResources=true
+[2022.09.01-07.19.09:054][131]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.01-07.19.09:133][131]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.01-07.19.09:157][131]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.01-07.19.17:777][131]LogMeshUtilities: Finished distance field build in 17.3s - 126x126x126 sparse distance field, 2.2Mb total, 0.1Mb always loaded, 62% occupied, 42336 triangles, StaticMesh_HLOD0_Instancing_1
+[2022.09.01-07.19.17:777][131]LogMeshUtilities: Finished distance field build in 13.0s - 126x126x126 sparse distance field, 1.9Mb total, 0.1Mb always loaded, 53% occupied, 42336 triangles, StaticMesh_HLOD0_Instancing_2
+[2022.09.01-07.19.17:777][131]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.09.01-07.19.17:782][131]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2022.09.01-07.19.17:786][131]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2022.09.01-07.19.17:796][131]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.01-07.19.17:813][131]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2022.09.01-07.19.18:051][132]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2022.09.01-07.19.23:028][367]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2022.09.01-07.19.24:258][367]LogSlate: Window 'Save Content' being destroyed
+[2022.09.01-07.19.24:460][367]LogSavePackage: Moving output files for package: /Game/Sounds/Drums_of_Drakkar_Viking_and_medieval_music
+[2022.09.01-07.19.24:460][367]LogSavePackage: Moving '../../../../../../Users/somer/Desktop/ProtoTypeGame/InventorySystem/Saved/Drums_of_Drakkar_Viking_and_mediE85F1ECD43CE9D31742B2F882F7D6347.tmp' to '../../../../../../Users/somer/Desktop/ProtoTypeGame/InventorySystem/Content/Sounds/Drums_of_Drakkar_Viking_and_medieval_music.uasset'
+[2022.09.01-07.19.24:463][367]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/MainWorld/6/SF/KI3N5JHXBL0UJN16E0L6KA
+[2022.09.01-07.19.24:463][367]LogSavePackage: Moving '../../../../../../Users/somer/Desktop/ProtoTypeGame/InventorySystem/Saved/KI3N5JHXBL0UJN16E0L6KA4A8F3D1B42B5F73BF5A0CF8B88496558.tmp' to '../../../../../../Users/somer/Desktop/ProtoTypeGame/InventorySystem/Content/__ExternalActors__/Maps/MainWorld/6/SF/KI3N5JHXBL0UJN16E0L6KA.uasset'
+[2022.09.01-07.19.24:467][367]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/MainWorld/9/T3/UWEMRU7GZJKFZZXEHDWLHK
+[2022.09.01-07.19.24:467][367]LogSavePackage: Moving '../../../../../../Users/somer/Desktop/ProtoTypeGame/InventorySystem/Saved/UWEMRU7GZJKFZZXEHDWLHK5131C9834839BF5391FAF48526942C24.tmp' to '../../../../../../Users/somer/Desktop/ProtoTypeGame/InventorySystem/Content/__ExternalActors__/Maps/MainWorld/9/T3/UWEMRU7GZJKFZZXEHDWLHK.uasset'
+[2022.09.01-07.19.24:471][367]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/MainWorld/7/YF/JFCL0BXSF807O6USV0A6TF
+[2022.09.01-07.19.24:472][367]LogSavePackage: Moving '../../../../../../Users/somer/Desktop/ProtoTypeGame/InventorySystem/Saved/JFCL0BXSF807O6USV0A6TF78BA6A8B4207C8CA94165F91BEB492E4.tmp' to '../../../../../../Users/somer/Desktop/ProtoTypeGame/InventorySystem/Content/__ExternalActors__/Maps/MainWorld/7/YF/JFCL0BXSF807O6USV0A6TF.uasset'
+[2022.09.01-07.19.24:476][367]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/MainWorld/A/BS/8GRQSW95IBNENWEVMQMYJD
+[2022.09.01-07.19.24:477][367]LogSavePackage: Moving '../../../../../../Users/somer/Desktop/ProtoTypeGame/InventorySystem/Saved/8GRQSW95IBNENWEVMQMYJD901C450A4B6C384613489098B2EC037C.tmp' to '../../../../../../Users/somer/Desktop/ProtoTypeGame/InventorySystem/Content/__ExternalActors__/Maps/MainWorld/A/BS/8GRQSW95IBNENWEVMQMYJD.uasset'
+[2022.09.01-07.19.24:480][367]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/MainWorld/0/4N/B0RB2GGN172K7PMRB0J1CE
+[2022.09.01-07.19.24:480][367]LogSavePackage: Moving '../../../../../../Users/somer/Desktop/ProtoTypeGame/InventorySystem/Saved/B0RB2GGN172K7PMRB0J1CE9FA1307340A90525F24ACC96D1DC0E3F.tmp' to '../../../../../../Users/somer/Desktop/ProtoTypeGame/InventorySystem/Content/__ExternalActors__/Maps/MainWorld/0/4N/B0RB2GGN172K7PMRB0J1CE.uasset'
+[2022.09.01-07.19.24:484][367]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/MainWorld/F/4V/BO6RKINNVF9TEXEE6QKJAY
+[2022.09.01-07.19.24:485][367]LogSavePackage: Moving '../../../../../../Users/somer/Desktop/ProtoTypeGame/InventorySystem/Saved/BO6RKINNVF9TEXEE6QKJAY068566D843D8973EFBE1CFBF96329AFD.tmp' to '../../../../../../Users/somer/Desktop/ProtoTypeGame/InventorySystem/Content/__ExternalActors__/Maps/MainWorld/F/4V/BO6RKINNVF9TEXEE6QKJAY.uasset'
+[2022.09.01-07.19.24:488][367]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/MainWorld/1/C5/VEZIARE0JZIUZ2KJGNZ715
+[2022.09.01-07.19.24:488][367]LogSavePackage: Moving '../../../../../../Users/somer/Desktop/ProtoTypeGame/InventorySystem/Saved/VEZIARE0JZIUZ2KJGNZ715B569F39848BAECDB62BD609D18B20156.tmp' to '../../../../../../Users/somer/Desktop/ProtoTypeGame/InventorySystem/Content/__ExternalActors__/Maps/MainWorld/1/C5/VEZIARE0JZIUZ2KJGNZ715.uasset'
+[2022.09.01-07.19.24:492][367]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/MainWorld/C/ID/X6FVKW01R1TK7LZCPVOLHW
+[2022.09.01-07.19.24:493][367]LogSavePackage: Moving '../../../../../../Users/somer/Desktop/ProtoTypeGame/InventorySystem/Saved/X6FVKW01R1TK7LZCPVOLHW05365A574D94A001CE2A0DBC5A9EC270.tmp' to '../../../../../../Users/somer/Desktop/ProtoTypeGame/InventorySystem/Content/__ExternalActors__/Maps/MainWorld/C/ID/X6FVKW01R1TK7LZCPVOLHW.uasset'
+[2022.09.01-07.19.24:497][367]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/MainWorld/8/XE/CJ7034DXIVQYP6PVD08L8F
+[2022.09.01-07.19.24:497][367]LogSavePackage: Moving '../../../../../../Users/somer/Desktop/ProtoTypeGame/InventorySystem/Saved/CJ7034DXIVQYP6PVD08L8F903FCBEC4336B17C81EC45AB05DD561E.tmp' to '../../../../../../Users/somer/Desktop/ProtoTypeGame/InventorySystem/Content/__ExternalActors__/Maps/MainWorld/8/XE/CJ7034DXIVQYP6PVD08L8F.uasset'
+[2022.09.01-07.19.24:533][367]LogSavePackage: Moving output files for package: /Game/Sounds/Medieval_Music_–_Cobblestone_Village
+[2022.09.01-07.19.24:533][367]LogSavePackage: Moving '../../../../../../Users/somer/Desktop/ProtoTypeGame/InventorySystem/Saved/Medieval_Music_–_Cobblestone_Vil0AF87A5A4E90265A43A3798187B104A5.tmp' to '../../../../../../Users/somer/Desktop/ProtoTypeGame/InventorySystem/Content/Sounds/Medieval_Music_–_Cobblestone_Village.uasset'
+[2022.09.01-07.19.24:536][367]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/MainWorld/2/OX/4UY8FREVY89H4T212YN2KN
+[2022.09.01-07.19.24:537][367]LogSavePackage: Moving '../../../../../../Users/somer/Desktop/ProtoTypeGame/InventorySystem/Saved/4UY8FREVY89H4T212YN2KN378DEE6C4CFC165AE8F1D0B31358910A.tmp' to '../../../../../../Users/somer/Desktop/ProtoTypeGame/InventorySystem/Content/__ExternalActors__/Maps/MainWorld/2/OX/4UY8FREVY89H4T212YN2KN.uasset'
+[2022.09.01-07.19.24:539][367]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/MainWorld/4/UA/FV3GXWQW1PF67UL7LUG5F2
+[2022.09.01-07.19.24:539][367]LogSavePackage: Moving '../../../../../../Users/somer/Desktop/ProtoTypeGame/InventorySystem/Saved/FV3GXWQW1PF67UL7LUG5F269EA2D4241EDB1D35FF6D3A5832DEA43.tmp' to '../../../../../../Users/somer/Desktop/ProtoTypeGame/InventorySystem/Content/__ExternalActors__/Maps/MainWorld/4/UA/FV3GXWQW1PF67UL7LUG5F2.uasset'
+[2022.09.01-07.19.24:542][367]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/MainWorld/A/MF/EL4SVIUFA60T5W8NSM9T7G
+[2022.09.01-07.19.24:542][367]LogSavePackage: Moving '../../../../../../Users/somer/Desktop/ProtoTypeGame/InventorySystem/Saved/EL4SVIUFA60T5W8NSM9T7G88EBA4E1497A3A1F37780EAAEE9E0E3E.tmp' to '../../../../../../Users/somer/Desktop/ProtoTypeGame/InventorySystem/Content/__ExternalActors__/Maps/MainWorld/A/MF/EL4SVIUFA60T5W8NSM9T7G.uasset'
+[2022.09.01-07.19.24:544][367]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/MainWorld/B/OC/1HN4T2D9A8KKJ1V85PFN5U
+[2022.09.01-07.19.24:544][367]LogSavePackage: Moving '../../../../../../Users/somer/Desktop/ProtoTypeGame/InventorySystem/Saved/1HN4T2D9A8KKJ1V85PFN5U9AC9CA124C84119B4A76F497770D8E74.tmp' to '../../../../../../Users/somer/Desktop/ProtoTypeGame/InventorySystem/Content/__ExternalActors__/Maps/MainWorld/B/OC/1HN4T2D9A8KKJ1V85PFN5U.uasset'
+[2022.09.01-07.19.24:547][367]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/MainWorld/6/KJ/8K9FF4T6TZMI5K967UATV1
+[2022.09.01-07.19.24:548][367]LogSavePackage: Moving '../../../../../../Users/somer/Desktop/ProtoTypeGame/InventorySystem/Saved/8K9FF4T6TZMI5K967UATV1D726094B41EBEBE7D5C3CA8B027B5A11.tmp' to '../../../../../../Users/somer/Desktop/ProtoTypeGame/InventorySystem/Content/__ExternalActors__/Maps/MainWorld/6/KJ/8K9FF4T6TZMI5K967UATV1.uasset'
+[2022.09.01-07.19.24:550][367]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/MainWorld/0/J2/W1D3RHE376A8SXR35O5HDY
+[2022.09.01-07.19.24:550][367]LogSavePackage: Moving '../../../../../../Users/somer/Desktop/ProtoTypeGame/InventorySystem/Saved/W1D3RHE376A8SXR35O5HDY1058111149900BB5CCF959B0493C17F8.tmp' to '../../../../../../Users/somer/Desktop/ProtoTypeGame/InventorySystem/Content/__ExternalActors__/Maps/MainWorld/0/J2/W1D3RHE376A8SXR35O5HDY.uasset'
+[2022.09.01-07.19.24:562][367]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Dungeon.Dungeon
+[2022.09.01-07.19.24:562][367]Cmd: MAP LOAD FILE="../../../../../../Users/somer/Desktop/ProtoTypeGame/InventorySystem/Content/Maps/Dungeon.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.09.01-07.19.24:562][367]LightingResults: New page: Lighting Build
+[2022.09.01-07.19.24:563][367]LoadErrors: New page: Loading map: Dungeon.umap
+[2022.09.01-07.19.24:605][367]LogWorld: UWorld::CleanupWorld for MainWorld, bSessionEnded=true, bCleanupResources=true
+[2022.09.01-07.19.24:605][367]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.01-07.19.24:612][367]MapCheck: New page: Map Check
+[2022.09.01-07.19.24:613][367]LightingResults: New page: Lighting Build
+[2022.09.01-07.19.24:657][367]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.09.01-07.19.24:677][367]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2022.09.01-07.19.24:684][367]LogWorld: UWorld::CleanupWorld for Dungeon, bSessionEnded=true, bCleanupResources=true
+[2022.09.01-07.19.24:684][367]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.01-07.19.24:726][367]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2022.09.01-07.19.24:769][367]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2022.09.01-07.19.24:806][367]LogAudio: Display: Audio Device (ID: 1) registered with world 'Dungeon'.
+[2022.09.01-07.19.24:806][367]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.09.01-07.19.24:806][367]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.01-07.19.24:807][367]LogAIModule: Creating AISystem for world Dungeon
+[2022.09.01-07.19.24:828][367]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.09.01-07.19.24:881][367]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2022.09.01-07.19.24:895][367]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.09.01-07.19.24:895][367]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.235ms to complete.
+[2022.09.01-07.19.24:895][367]LogFileHelpers: Loading map 'Dungeon' took 0.333
+[2022.09.01-07.19.24:914][367]AssetCheck: New page: Asset Save: multiple assets
+[2022.09.01-07.19.24:914][367]LogContentValidation: Display: Validating SoundWave /Game/Sounds/Medieval_Music_–_Cobblestone_Village.Medieval_Music_–_Cobblestone_Village
+[2022.09.01-07.19.24:914][367]LogContentValidation: Display: Validating SoundWave /Game/Sounds/Drums_of_Drakkar_Viking_and_medieval_music.Drums_of_Drakkar_Viking_and_medieval_music
+[2022.09.01-07.19.24:914][367]LogContentValidation: Display: Validating InstancedFoliageActor /Game/Maps/MainWorld.MainWorld:PersistentLevel.InstancedFoliageActor_25600_-1_-1_0
+[2022.09.01-07.19.24:924][367]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Maps/MainWorld.MainWorld:PersistentLevel.InstancedFoliageActor_25600_-1_-1_0'
+[2022.09.01-07.19.24:924][367]LogContentValidation: Display: Validating InstancedFoliageActor /Game/Maps/MainWorld.MainWorld:PersistentLevel.InstancedFoliageActor_25600_-1_0_-1
+[2022.09.01-07.19.24:925][367]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Maps/MainWorld.MainWorld:PersistentLevel.InstancedFoliageActor_25600_-1_0_-1'
+[2022.09.01-07.19.24:925][367]LogContentValidation: Display: Validating InstancedFoliageActor /Game/Maps/MainWorld.MainWorld:PersistentLevel.InstancedFoliageActor_25600_-1_0_0
+[2022.09.01-07.19.24:925][367]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Maps/MainWorld.MainWorld:PersistentLevel.InstancedFoliageActor_25600_-1_0_0'
+[2022.09.01-07.19.24:925][367]LogContentValidation: Display: Validating InstancedFoliageActor /Game/Maps/MainWorld.MainWorld:PersistentLevel.InstancedFoliageActor_25600_-1_1_-1
+[2022.09.01-07.19.24:925][367]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Maps/MainWorld.MainWorld:PersistentLevel.InstancedFoliageActor_25600_-1_1_-1'
+[2022.09.01-07.19.24:925][367]LogContentValidation: Display: Validating InstancedFoliageActor /Game/Maps/MainWorld.MainWorld:PersistentLevel.InstancedFoliageActor_25600_0_-1_0
+[2022.09.01-07.19.24:925][367]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Maps/MainWorld.MainWorld:PersistentLevel.InstancedFoliageActor_25600_0_-1_0'
+[2022.09.01-07.19.24:925][367]LogContentValidation: Display: Validating InstancedFoliageActor /Game/Maps/MainWorld.MainWorld:PersistentLevel.InstancedFoliageActor_25600_0_0_0
+[2022.09.01-07.19.24:926][367]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Maps/MainWorld.MainWorld:PersistentLevel.InstancedFoliageActor_25600_0_0_0'
+[2022.09.01-07.19.24:926][367]LogContentValidation: Display: Validating InstancedFoliageActor /Game/Maps/MainWorld.MainWorld:PersistentLevel.InstancedFoliageActor_25600_0_1_0
+[2022.09.01-07.19.24:926][367]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Maps/MainWorld.MainWorld:PersistentLevel.InstancedFoliageActor_25600_0_1_0'
+[2022.09.01-07.19.24:926][367]LogContentValidation: Display: Validating StaticMeshActor /Game/Maps/MainWorld.MainWorld:PersistentLevel.StaticMeshActor_UAID_482AE35CD0C2A93101_1432522650
+[2022.09.01-07.19.24:926][367]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Maps/MainWorld.MainWorld:PersistentLevel.StaticMeshActor_UAID_482AE35CD0C2A93101_1432522650'
+[2022.09.01-07.19.24:926][367]LogContentValidation: Display: Validating StaticMeshActor /Game/Maps/MainWorld.MainWorld:PersistentLevel.StaticMeshActor_UAID_482AE35CD0C2A93101_1606038651
+[2022.09.01-07.19.24:926][367]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Maps/MainWorld.MainWorld:PersistentLevel.StaticMeshActor_UAID_482AE35CD0C2A93101_1606038651'
+[2022.09.01-07.19.48:827][723]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Dungeon" FILE="../../../../../../Users/somer/Desktop/ProtoTypeGame/InventorySystem/Content/Maps/Dungeon.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.09.01-07.19.48:868][723]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2022.09.01-07.19.48:931][723]LogSavePackage: Moving output files for package: /Game/Maps/Dungeon
+[2022.09.01-07.19.48:932][723]LogSavePackage: Moving '../../../../../../Users/somer/Desktop/ProtoTypeGame/InventorySystem/Saved/Dungeon963EAD84403C68F7BD0E049428F68C42.tmp' to '../../../../../../Users/somer/Desktop/ProtoTypeGame/InventorySystem/Content/Maps/Dungeon.umap'
+[2022.09.01-07.19.48:979][723]AssetCheck: New page: Asset Save: Dungeon
+[2022.09.01-07.19.48:979][723]LogContentValidation: Display: Validating World /Game/Maps/Dungeon.Dungeon
