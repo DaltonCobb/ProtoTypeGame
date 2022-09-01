@@ -2446,3 +2446,323 @@ Recommended: 516.25
 [2022.09.01-06.56.43:337][954]AssetCheck: New page: Asset Save: DungeonEnter_C_UAID_482AE35CD0C2283201_1761086000
 [2022.09.01-06.56.43:337][954]LogContentValidation: Display: Validating DungeonEnter_C /Game/Maps/MainWorld.MainWorld:PersistentLevel.DungeonEnter_C_UAID_482AE35CD0C2283201_1761086000
 [2022.09.01-06.56.43:345][954]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Maps/MainWorld.MainWorld:PersistentLevel.DungeonEnter_C_UAID_482AE35CD0C2283201_1761086000'
+[2022.09.01-06.58.39:701][414]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.09.01-06.58.39:726][414]LogContentBrowser: Creating deferred item: NewFolder
+[2022.09.01-06.58.39:746][415]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2022.09.01-06.58.41:402][515]LogContentBrowser: Attempting asset rename: NewFolder -> Sounds
+[2022.09.01-06.58.41:403][515]LogContentBrowser: End creating deferred item NewFolder
+[2022.09.01-07.02.55:987][923]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2022.09.01-07.02.58:217][923]LogSlate: Window 'Save Content' being destroyed
+[2022.09.01-07.02.58:341][923]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Dungeon" FILE="../../../../../../Users/somer/Desktop/ProtoTypeGame/InventorySystem/Content/Maps/Dungeon.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.09.01-07.02.58:374][923]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.09.01-07.02.58:423][923]LogSavePackage: Moving output files for package: /Game/Maps/Dungeon
+[2022.09.01-07.02.58:423][923]LogSavePackage: Moving '../../../../../../Users/somer/Desktop/ProtoTypeGame/InventorySystem/Saved/Dungeon004CF070441B16903E49CE96A663D610.tmp' to '../../../../../../Users/somer/Desktop/ProtoTypeGame/InventorySystem/Content/Maps/Dungeon.umap'
+[2022.09.01-07.02.58:435][923]LogFileHelpers: Saving map 'Dungeon' took 0.095
+[2022.09.01-07.02.58:448][923]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/MainWorld.MainWorld
+[2022.09.01-07.02.58:448][923]Cmd: MAP LOAD FILE="../../../../../../Users/somer/Desktop/ProtoTypeGame/InventorySystem/Content/Maps/MainWorld.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.09.01-07.02.58:448][923]LightingResults: New page: Lighting Build
+[2022.09.01-07.02.58:448][923]LoadErrors: New page: Loading map: MainWorld.umap
+[2022.09.01-07.02.58:489][923]LogWorld: UWorld::CleanupWorld for Dungeon, bSessionEnded=true, bCleanupResources=true
+[2022.09.01-07.02.58:489][923]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.01-07.02.58:489][923]MapCheck: New page: Map Check
+[2022.09.01-07.02.58:490][923]LightingResults: New page: Lighting Build
+[2022.09.01-07.02.58:523][923]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.09.01-07.02.58:528][923]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2022.09.01-07.02.58:530][923]LogWorld: UWorld::CleanupWorld for MainWorld, bSessionEnded=true, bCleanupResources=true
+[2022.09.01-07.02.58:530][923]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.01-07.02.58:566][923]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2022.09.01-07.02.58:602][923]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2022.09.01-07.02.58:609][923]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainWorld'.
+[2022.09.01-07.02.58:609][923]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.01-07.02.58:609][923]LogAIModule: Creating AISystem for world MainWorld
+[2022.09.01-07.02.58:610][923]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.09.01-07.02.58:610][923]LogWorldPartition: UWorldPartition::Initialize(IsEditor=1, IsGame=0, IsCooking=0)
+[2022.09.01-07.02.58:656][923]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_12 in PCD3D_SM5, Default, SM5 (DDC key hash: A5819B7C46F2D26D3F66008B31D21583E6049D3C), compiling. 
+[2022.09.01-07.02.59:371][923]LogWorldPartition: Display: WorldPartition initialize took 761 ms
+[2022.09.01-07.02.59:374][923]LogShaderCompilers: Display: ================================================
+[2022.09.01-07.02.59:374][923]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.09.01-07.02.59:374][923]LogShaderCompilers: Display: Total job queries 224, among them cache hits 76 (33.93%)
+[2022.09.01-07.02.59:374][923]LogShaderCompilers: Display: Tracking 93 distinct input hashes that result in 55 distinct outputs (59.14%)
+[2022.09.01-07.02.59:374][923]LogShaderCompilers: Display: RAM used: 0.13 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.01%
+[2022.09.01-07.02.59:374][923]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.09.01-07.02.59:374][923]LogShaderCompilers: Display: Shaders Compiled: 48
+[2022.09.01-07.02.59:374][923]LogShaderCompilers: Display: Jobs assigned 123, completed 93 (75.61%)
+[2022.09.01-07.02.59:374][923]LogShaderCompilers: Display: Average time worker was idle: 151.95 s
+[2022.09.01-07.02.59:374][923]LogShaderCompilers: Display: Time job spent in pending queue: average 1.07 s, longest 10.10 s
+[2022.09.01-07.02.59:374][923]LogShaderCompilers: Display: Job execution time: average 3.90 s, max 13.48 s
+[2022.09.01-07.02.59:374][923]LogShaderCompilers: Display: Job life time (pending + execution): average 5.32 s, max 13.58
+[2022.09.01-07.02.59:374][923]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 40.74 s
+[2022.09.01-07.02.59:374][923]LogShaderCompilers: Display: Jobs were issued in 91 batches (only local compilation was used), average 1.35 jobs/batch
+[2022.09.01-07.02.59:374][923]LogShaderCompilers: Display: Average processing rate: 2.28 jobs/sec
+[2022.09.01-07.02.59:374][923]LogShaderCompilers: Display: Effective parallelization: 5.64 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2022.09.01-07.02.59:374][923]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2022.09.01-07.02.59:374][923]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    2 times, average 3.34 sec, max 5.80 sec, min 0.89 sec)
+[2022.09.01-07.02.59:374][923]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    2 times, average 3.31 sec, max 4.74 sec, min 1.87 sec)
+[2022.09.01-07.02.59:374][923]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    2 times, average 3.29 sec, max 4.75 sec, min 1.83 sec)
+[2022.09.01-07.02.59:374][923]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    2 times, average 3.15 sec, max 4.57 sec, min 1.73 sec)
+[2022.09.01-07.02.59:375][923]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled    2 times, average 3.08 sec, max 4.43 sec, min 1.73 sec)
+[2022.09.01-07.02.59:375][923]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2022.09.01-07.02.59:375][923]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 29.77% of total time (compiled   24 times, average 2.85 sec, max 4.38 sec, min 1.39 sec)
+[2022.09.01-07.02.59:375][923]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 25.32% of total time (compiled   23 times, average 2.53 sec, max 4.21 sec, min 1.32 sec)
+[2022.09.01-07.02.59:375][923]LogShaderCompilers: Display:                                                 FLumenCardVS - 8.83% of total time (compiled    9 times, average 2.25 sec, max 3.89 sec, min 1.32 sec)
+[2022.09.01-07.02.59:375][923]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 3.73% of total time (compiled    9 times, average 0.95 sec, max 1.74 sec, min 0.56 sec)
+[2022.09.01-07.02.59:375][923]LogShaderCompilers: Display:                                             FDebugViewModePS - 2.91% of total time (compiled    2 times, average 3.34 sec, max 5.80 sec, min 0.89 sec)
+[2022.09.01-07.02.59:375][923]LogShaderCompilers: Display: ================================================
+[2022.09.01-07.03.00:358][923]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.09.01-07.03.01:326][923]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' exceeded budget of 2.000000s
+[2022.09.01-07.03.01:330][923]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2022.09.01-07.03.01:360][923]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.09.01-07.03.01:361][923]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.981ms to complete.
+[2022.09.01-07.03.01:361][923]LogFileHelpers: Loading map 'MainWorld' took 2.913
+[2022.09.01-07.03.01:391][923]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' complete in 0.000404s (0.943390s overbudget)
+[2022.09.01-07.03.01:413][923]AssetCheck: New page: Asset Save: Dungeon
+[2022.09.01-07.03.01:414][923]LogContentValidation: Display: Validating World /Game/Maps/Dungeon.Dungeon
+[2022.09.01-07.03.02:589][930]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/MainWorld.
+[2022.09.01-07.05.51:542][421]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\somer\Downloads\Medieval Music – Cobblestone Village.wav)
+[2022.09.01-07.05.51:675][421]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave Medieval_Music_–_Cobblestone_Village...
+[2022.09.01-07.05.51:683][421]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Sounds/Medieval_Music_–_Cobblestone_Village.Medieval_Music_–_Cobblestone_Village will be modified from 40 to 40.
+[2022.09.01-07.05.54:544][421]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 45654016 while cooking SoundWave /Game/Sounds/Medieval_Music_–_Cobblestone_Village.Medieval_Music_–_Cobblestone_Village.
+[2022.09.01-07.05.54:553][421]LogAudio: Display: Chunk size for SoundWave /Game/Sounds/Medieval_Music_–_Cobblestone_Village.Medieval_Music_–_Cobblestone_Village: 262144
+[2022.09.01-07.05.54:555][421]LogAudio: Display: Sound Wave SoundWave /Game/Sounds/Medieval_Music_–_Cobblestone_Village.Medieval_Music_–_Cobblestone_Village is very large, requiring 33 chunks.
+[2022.09.01-07.05.54:602][421]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SViewport [SEditorViewport.cpp(55)].
+[2022.09.01-07.06.35:911][565]Cmd: TRANSACTION UNDO
+[2022.09.01-07.06.35:911][565]LogEditorTransaction: Undo Foliage Editing
+[2022.09.01-07.06.35:948][565]LogMaterial: Display: Missing cached shadermap for Preview:WorldDirt in PCD3D_SM5, Default, SM5 (DDC key hash: DBC3D1761FBDFD58D23ED8CAB952B0BD9008CA7C), compiling. 
+[2022.09.01-07.06.36:016][565]MaterialEditorStats: Texture samplers: 0/16
+[2022.09.01-07.06.36:016][565]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(6)
+[2022.09.01-07.06.36:016][565]MaterialEditorStats: Shader Count: 0
+[2022.09.01-07.06.36:184][567]LogShaderCompilers: Display: ================================================
+[2022.09.01-07.06.36:184][567]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.09.01-07.06.36:184][567]LogShaderCompilers: Display: Total job queries 228, among them cache hits 80 (35.09%)
+[2022.09.01-07.06.36:184][567]LogShaderCompilers: Display: Tracking 123 distinct input hashes that result in 68 distinct outputs (55.28%)
+[2022.09.01-07.06.36:184][567]LogShaderCompilers: Display: RAM used: 0.17 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.01%
+[2022.09.01-07.06.36:184][567]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.09.01-07.06.36:184][567]LogShaderCompilers: Display: Shaders Compiled: 48
+[2022.09.01-07.06.36:184][567]LogShaderCompilers: Display: Jobs assigned 123, completed 123 (100.00%)
+[2022.09.01-07.06.36:184][567]LogShaderCompilers: Display: Average time worker was idle: 151.95 s
+[2022.09.01-07.06.36:184][567]LogShaderCompilers: Display: Time job spent in pending queue: average 1.07 s, longest 10.10 s
+[2022.09.01-07.06.36:184][567]LogShaderCompilers: Display: Job execution time: average 5.61 s, max 13.48 s
+[2022.09.01-07.06.36:184][567]LogShaderCompilers: Display: Job life time (pending + execution): average 6.68 s, max 13.58
+[2022.09.01-07.06.36:184][567]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 52.72 s
+[2022.09.01-07.06.36:184][567]LogShaderCompilers: Display: Jobs were issued in 91 batches (only local compilation was used), average 1.35 jobs/batch
+[2022.09.01-07.06.36:184][567]LogShaderCompilers: Display: Average processing rate: 2.33 jobs/sec
+[2022.09.01-07.06.36:184][567]LogShaderCompilers: Display: Effective parallelization: 5.88 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2022.09.01-07.06.36:185][567]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2022.09.01-07.06.36:185][567]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    4 times, average 3.42 sec, max 5.80 sec, min 0.89 sec)
+[2022.09.01-07.06.36:185][567]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    4 times, average 3.03 sec, max 4.57 sec, min 1.73 sec)
+[2022.09.01-07.06.36:185][567]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    4 times, average 3.02 sec, max 4.75 sec, min 1.83 sec)
+[2022.09.01-07.06.36:185][567]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    4 times, average 3.02 sec, max 4.74 sec, min 1.87 sec)
+[2022.09.01-07.06.36:185][567]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled    4 times, average 2.94 sec, max 4.43 sec, min 1.73 sec)
+[2022.09.01-07.06.36:185][567]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2022.09.01-07.06.36:185][567]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 22.88% of total time (compiled   25 times, average 2.84 sec, max 4.38 sec, min 1.39 sec)
+[2022.09.01-07.06.36:185][567]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 19.52% of total time (compiled   24 times, average 2.52 sec, max 4.21 sec, min 1.32 sec)
+[2022.09.01-07.06.36:185][567]LogShaderCompilers: Display:                                                 FLumenCardVS - 7.30% of total time (compiled   10 times, average 2.26 sec, max 3.89 sec, min 1.32 sec)
+[2022.09.01-07.06.36:185][567]LogShaderCompilers: Display:                                             FDebugViewModePS - 4.41% of total time (compiled    4 times, average 3.42 sec, max 5.80 sec, min 0.89 sec)
+[2022.09.01-07.06.36:185][567]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy - 3.91% of total time (compiled    4 times, average 3.03 sec, max 4.57 sec, min 1.73 sec)
+[2022.09.01-07.06.36:185][567]LogShaderCompilers: Display: ================================================
+[2022.09.01-07.06.36:292][568]MaterialEditorStats: Texture samplers: 3/16
+[2022.09.01-07.06.36:292][568]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(6)
+[2022.09.01-07.06.36:292][568]MaterialEditorStats: Shader Count: 4
+[2022.09.01-07.06.43:812][997]Cmd: TRANSACTION UNDO
+[2022.09.01-07.06.43:812][997]LogEditorTransaction: Undo Foliage Editing
+[2022.09.01-07.06.43:821][997]LogMaterial: Display: Missing cached shadermap for Preview:WorldDirt in PCD3D_SM5, Default, SM5 (DDC key hash: 0CC46EEC895B85C290F80CDB425F485DF54AFA32), compiling. 
+[2022.09.01-07.06.43:889][997]MaterialEditorStats: Texture samplers: 0/16
+[2022.09.01-07.06.43:889][997]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(6)
+[2022.09.01-07.06.43:889][997]MaterialEditorStats: Shader Count: 0
+[2022.09.01-07.06.44:158][  0]MaterialEditorStats: Texture samplers: 3/16
+[2022.09.01-07.06.44:158][  0]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(6)
+[2022.09.01-07.06.44:158][  0]MaterialEditorStats: Shader Count: 4
+[2022.09.01-07.07.37:606][ 67]Cmd: TRANSACTION UNDO
+[2022.09.01-07.07.37:606][ 67]LogEditorTransaction: Undo Foliage Editing
+[2022.09.01-07.07.37:622][ 67]LogMaterial: Display: Missing cached shadermap for Preview:WorldDirt in PCD3D_SM5, Default, SM5 (DDC key hash: 886A490B4980D099930144A2E6B08437643C4B23), compiling. 
+[2022.09.01-07.07.37:691][ 67]MaterialEditorStats: Texture samplers: 0/16
+[2022.09.01-07.07.37:691][ 67]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(6)
+[2022.09.01-07.07.37:691][ 67]MaterialEditorStats: Shader Count: 0
+[2022.09.01-07.07.37:858][ 69]Cmd: TRANSACTION UNDO
+[2022.09.01-07.07.37:858][ 69]LogEditorTransaction: Undo Foliage Editing
+[2022.09.01-07.07.37:888][ 69]LogMaterial: Display: Missing cached shadermap for Preview:WorldDirt in PCD3D_SM5, Default, SM5 (DDC key hash: 448041BD2F0D33C5C8652D6151AF6BD8F23FAD53), compiling. 
+[2022.09.01-07.07.38:145][ 71]MaterialEditorStats: Texture samplers: 3/16
+[2022.09.01-07.07.38:145][ 71]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(6)
+[2022.09.01-07.07.38:145][ 71]MaterialEditorStats: Shader Count: 4
+[2022.09.01-07.07.39:412][141]Cmd: TRANSACTION UNDO
+[2022.09.01-07.07.39:412][141]LogEditorTransaction: Undo Foliage Editing
+[2022.09.01-07.07.39:420][141]LogMaterial: Display: Missing cached shadermap for Preview:WorldDirt in PCD3D_SM5, Default, SM5 (DDC key hash: EBDCA5B81D713DA9DEC61B01AC55A8F071943BC3), compiling. 
+[2022.09.01-07.07.39:426][141]MaterialEditorStats: Texture samplers: 0/16
+[2022.09.01-07.07.39:426][141]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(6)
+[2022.09.01-07.07.39:426][141]MaterialEditorStats: Shader Count: 0
+[2022.09.01-07.07.39:561][144]MaterialEditorStats: Texture samplers: 3/16
+[2022.09.01-07.07.39:561][144]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(6)
+[2022.09.01-07.07.39:561][144]MaterialEditorStats: Shader Count: 4
+[2022.09.01-07.08.51:959][612]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.09.01-07.08.51:983][612]LogWorldPartition: Display: GenerateStreaming started...
+[2022.09.01-07.08.51:983][612]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.09.01-07.08.51:983][612]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.09.01-07.08.51:983][612]LogWorldPartition: Display: ValidateSingleActorReferer took 15 us
+[2022.09.01-07.08.51:983][612]LogWorldPartition: Display: GetPartitionedActors took 141 us
+[2022.09.01-07.08.52:122][612]LogWorldPartition: Display: GenerateStreaming took 139 ms
+[2022.09.01-07.08.52:124][612]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.01-07.08.52:124][612]PIE: New page: PIE session: MainWorld (Aug 31, 2022, 7:08:52 PM)
+[2022.09.01-07.08.52:124][612]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainWorld
+[2022.09.01-07.08.52:227][612]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.09.01-07.08.52:228][612]LogPlayLevel: PIE: StaticDuplicateObject took: (0.103822s)
+[2022.09.01-07.08.52:228][612]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainWorld.MainWorld to /Game/Maps/UEDPIE_0_MainWorld.MainWorld (0.103980s)
+[2022.09.01-07.08.52:229][612]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.01-07.08.52:229][612]LogAIModule: Creating AISystem for world MainWorld
+[2022.09.01-07.08.52:230][612]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.09.01-07.08.52:230][612]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.09.01-07.08.52:247][612]LogWorldPartition: Display: WorldPartition initialize took 17 ms
+[2022.09.01-07.08.52:248][612]LogPlayLevel: PIE: World Init took: (0.019318s)
+[2022.09.01-07.08.52:312][612]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2022.09.01-07.08.52:314][612]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2022.09.01-07.08.52:314][612]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.09.01-07.08.52:314][612]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.09.01-07.08.52:315][612]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.09.01-07.08.52:315][612]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.09.01-07.08.52:315][612]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.09.01-07.08.52:315][612]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.09.01-07.08.52:315][612]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.09.01-07.08.52:315][612]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.09.01-07.08.52:316][612]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.09.01-07.08.52:316][612]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.09.01-07.08.52:316][612]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.09.01-07.08.52:319][612]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.09.01-07.08.52:351][612]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Synaptics Audio)
+[2022.09.01-07.08.52:351][612]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.09.01-07.08.52:352][612]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.09.01-07.08.52:352][612]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.09.01-07.08.52:353][612]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2022.09.01-07.08.52:353][612]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2022.09.01-07.08.52:355][612]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2022.09.01-07.08.52:356][612]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2022.09.01-07.08.52:356][612]LogInit: FAudioDevice initialized.
+[2022.09.01-07.08.52:356][612]LogAudio: Display: Audio Device (ID: 13) registered with world 'MainWorld'.
+[2022.09.01-07.08.52:373][612]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.09.01-07.08.52:383][612]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainWorld.MainWorld up for play (max tick rate 60) at 2022.09.01-01.08.52
+[2022.09.01-07.08.52:384][612]LogWorld: Bringing up level for play took: 0.010564
+[2022.09.01-07.08.52:388][612]LogOnline: OSS: Created online subsystem instance for: :Context_22
+[2022.09.01-07.08.52:393][612]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=-71.287 Y=1273.717 Z=396.084
+[2022.09.01-07.08.52:393][612]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(26), CellsToLoad(0), CellsToUnload(0)
+[2022.09.01-07.08.52:393][612]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=-71.287 Y=1273.717 Z=396.084,P=0.000000 Y=102.943251 R=-0.000000
+[2022.09.01-07.08.52:557][612]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/MainWorld/E/FS/XN3P6YH094RBY0ZJU2LGJ8.StaticMesh_HLOD0_Instancing_9 being ready before playing
+[2022.09.01-07.08.52:558][612]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/MainWorld/E/FS/XN3P6YH094RBY0ZJU2LGJ8.StaticMesh_HLOD0_Instancing_8 being ready before playing
+[2022.09.01-07.08.52:558][612]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/MainWorld/E/FS/XN3P6YH094RBY0ZJU2LGJ8.StaticMesh_HLOD0_Instancing_7 being ready before playing
+[2022.09.01-07.08.52:558][612]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/MainWorld/E/FS/XN3P6YH094RBY0ZJU2LGJ8.StaticMesh_HLOD0_Instancing_6 being ready before playing
+[2022.09.01-07.08.52:558][612]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/MainWorld/E/FS/XN3P6YH094RBY0ZJU2LGJ8.StaticMesh_HLOD0_Instancing_11 being ready before playing
+[2022.09.01-07.08.52:558][612]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/MainWorld/E/FS/XN3P6YH094RBY0ZJU2LGJ8.StaticMesh_HLOD0_Instancing_10 being ready before playing
+[2022.09.01-07.08.52:558][612]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/MainWorld/E/8D/KRI3DM11VT7VSX2GLRQ1FL.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2022.09.01-07.08.52:558][612]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/MainWorld/D/YM/X2B5ISR985VF04IU99KDC7.StaticMesh_HLOD0_Instancing_5 being ready before playing
+[2022.09.01-07.08.52:558][612]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/MainWorld/D/YM/X2B5ISR985VF04IU99KDC7.StaticMesh_HLOD0_Instancing_4 being ready before playing
+[2022.09.01-07.08.52:558][612]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/MainWorld/D/4Y/HXLFPV46QRYGOJLQ75A67W.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2022.09.01-07.08.52:558][612]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/MainWorld/C/L5/56R3FKY6IUL413ILXDUCXL.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2022.09.01-07.08.52:558][612]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/MainWorld/C/6Q/7FM65A9SKQDISIJG8E6P6L.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2022.09.01-07.08.52:558][612]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/MainWorld/B/DE/U33PR001FWF73933DU64QS.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2022.09.01-07.08.52:558][612]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/MainWorld/B/DE/U33PR001FWF73933DU64QS.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2022.09.01-07.08.52:558][612]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/MainWorld/B/1T/6M6I6E6ZM28JN3UP1YLSPJ.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2022.09.01-07.08.52:558][612]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/MainWorld/A/CM/PFLUQLGYGTT6FY44ESXI8D.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2022.09.01-07.08.52:558][612]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/MainWorld/9/E2/M0VLL404A6HKSE9IV4K7H1.StaticMesh_HLOD0_Instancing_9 being ready before playing
+[2022.09.01-07.08.52:558][612]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/MainWorld/9/E2/M0VLL404A6HKSE9IV4K7H1.StaticMesh_HLOD0_Instancing_8 being ready before playing
+[2022.09.01-07.08.52:558][612]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/MainWorld/9/E2/M0VLL404A6HKSE9IV4K7H1.StaticMesh_HLOD0_Instancing_7 being ready before playing
+[2022.09.01-07.08.52:558][612]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/MainWorld/9/E2/M0VLL404A6HKSE9IV4K7H1.StaticMesh_HLOD0_Instancing_13 being ready before playing
+[2022.09.01-07.08.52:558][612]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/MainWorld/9/E2/M0VLL404A6HKSE9IV4K7H1.StaticMesh_HLOD0_Instancing_12 being ready before playing
+[2022.09.01-07.08.52:558][612]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/MainWorld/9/E2/M0VLL404A6HKSE9IV4K7H1.StaticMesh_HLOD0_Instancing_11 being ready before playing
+[2022.09.01-07.08.52:558][612]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/MainWorld/9/E2/M0VLL404A6HKSE9IV4K7H1.StaticMesh_HLOD0_Instancing_10 being ready before playing
+[2022.09.01-07.08.52:558][612]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/MainWorld/9/0N/5OGIUVL1ZHG2KZAC48BALO.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2022.09.01-07.08.52:558][612]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/MainWorld/9/0N/5OGIUVL1ZHG2KZAC48BALO.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2022.09.01-07.08.52:558][612]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/MainWorld/7/5P/NRKQ9673TVWL5284NDMR0F.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2022.09.01-07.08.52:558][612]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/MainWorld/7/5P/NRKQ9673TVWL5284NDMR0F.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2022.09.01-07.08.52:558][612]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/MainWorld/6/GW/RXE7AHSX5EYC70C3GVGTKN.StaticMesh_HLOD0_Instancing_5 being ready before playing
+[2022.09.01-07.08.52:558][612]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/MainWorld/6/GW/RXE7AHSX5EYC70C3GVGTKN.StaticMesh_HLOD0_Instancing_4 being ready before playing
+[2022.09.01-07.08.52:558][612]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/MainWorld/6/GW/RXE7AHSX5EYC70C3GVGTKN.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2022.09.01-07.08.52:558][612]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/MainWorld/6/52/JKUHUCDUG8W7NCU6KVOKUI.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2022.09.01-07.08.52:558][612]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/MainWorld/5/GV/JBI8W63EY5MTD914P5O0BL.StaticMesh_HLOD0_Instancing_9 being ready before playing
+[2022.09.01-07.08.52:558][612]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/MainWorld/5/GV/JBI8W63EY5MTD914P5O0BL.StaticMesh_HLOD0_Instancing_8 being ready before playing
+[2022.09.01-07.08.52:558][612]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/MainWorld/5/GV/JBI8W63EY5MTD914P5O0BL.StaticMesh_HLOD0_Instancing_7 being ready before playing
+[2022.09.01-07.08.52:558][612]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/MainWorld/5/GV/JBI8W63EY5MTD914P5O0BL.StaticMesh_HLOD0_Instancing_6 being ready before playing
+[2022.09.01-07.08.52:558][612]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/MainWorld/5/GV/JBI8W63EY5MTD914P5O0BL.StaticMesh_HLOD0_Instancing_11 being ready before playing
+[2022.09.01-07.08.52:558][612]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/MainWorld/5/GV/JBI8W63EY5MTD914P5O0BL.StaticMesh_HLOD0_Instancing_10 being ready before playing
+[2022.09.01-07.08.52:559][612]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/MainWorld/3/23/QGRXW658C9ANIYZMGIYTHD.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2022.09.01-07.08.52:559][612]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/MainWorld/3/1P/TI5VCO3E7N8203REBB969E.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2022.09.01-07.08.52:559][612]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/MainWorld/2/90/PMOTXJEN6RXIQGVNX45FGD.StaticMesh_HLOD0_Instancing_9 being ready before playing
+[2022.09.01-07.08.52:559][612]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/MainWorld/2/90/PMOTXJEN6RXIQGVNX45FGD.StaticMesh_HLOD0_Instancing_8 being ready before playing
+[2022.09.01-07.08.52:559][612]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/MainWorld/2/90/PMOTXJEN6RXIQGVNX45FGD.StaticMesh_HLOD0_Instancing_7 being ready before playing
+[2022.09.01-07.08.52:559][612]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/MainWorld/2/90/PMOTXJEN6RXIQGVNX45FGD.StaticMesh_HLOD0_Instancing_6 being ready before playing
+[2022.09.01-07.08.52:559][612]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/MainWorld/2/90/PMOTXJEN6RXIQGVNX45FGD.StaticMesh_HLOD0_Instancing_5 being ready before playing
+[2022.09.01-07.08.52:559][612]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/MainWorld/2/6G/D68CPWTYGJDLQLIHYVRRI8.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2022.09.01-07.08.52:559][612]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/MainWorld/2/6G/D68CPWTYGJDLQLIHYVRRI8.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2022.09.01-07.08.52:559][612]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/MainWorld/2/VE/443H6YSJ6IC31HB955B22S.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2022.09.01-07.08.52:559][612]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/MainWorld/2/VE/443H6YSJ6IC31HB955B22S.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2022.09.01-07.08.52:559][612]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/MainWorld/0/9H/IXJ8O4UO657L1W4XMVWVF5.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2022.09.01-07.08.52:653][612]LogStreaming: Display: FlushAsyncLoading: 48 QueuedPackages, 0 AsyncPackages
+[2022.09.01-07.08.53:820][612]PIE: Server logged in
+[2022.09.01-07.08.53:825][612]PIE: Play in editor total start time 1.855 seconds.
+[2022.09.01-07.09.17:327][970]LogMeshUtilities: Finished distance field build in 24.7s - 126x126x126 sparse distance field, 1.5Mb total, 0.1Mb always loaded, 42% occupied, 42336 triangles, StaticMesh_HLOD0_Instancing_10
+[2022.09.01-07.09.18:250][987]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.01-07.09.18:250][987]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainWorld
+[2022.09.01-07.09.18:402][987]LogWorld: UWorld::CleanupWorld for MainWorld, bSessionEnded=true, bCleanupResources=true
+[2022.09.01-07.09.18:415][987]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.01-07.09.18:466][987]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.01-07.09.18:491][987]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.01-07.09.33:149][987]LogMeshUtilities: Finished distance field build in 29.2s - 126x126x126 sparse distance field, 2.0Mb total, 0.1Mb always loaded, 55% occupied, 42336 triangles, StaticMesh_HLOD0_Instancing_8
+[2022.09.01-07.09.33:150][987]LogMeshUtilities: Finished distance field build in 33.7s - 126x126x126 sparse distance field, 2.4Mb total, 0.1Mb always loaded, 69% occupied, 42336 triangles, StaticMesh_HLOD0_Instancing_7
+[2022.09.01-07.09.33:150][987]LogMeshUtilities: Finished distance field build in 11.2s - 126x126x126 sparse distance field, 2.0Mb total, 0.1Mb always loaded, 55% occupied, 42336 triangles, StaticMesh_HLOD0_Instancing_6
+[2022.09.01-07.09.33:150][987]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.09.01-07.09.33:155][987]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2022.09.01-07.09.33:159][987]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2022.09.01-07.09.33:174][987]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.01-07.09.33:211][987]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2022.09.01-07.09.33:329][988]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2022.09.01-07.09.48:742][836]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/MainWorld.
+[2022.09.01-07.09.48:881][842]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/MainWorld.
+[2022.09.01-07.09.52:806][ 54]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/MainWorld.
+[2022.09.01-07.09.53:317][ 63]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/MainWorld.
+[2022.09.01-07.09.53:618][ 81]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/MainWorld.
+[2022.09.01-07.09.54:069][108]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/MainWorld.
+[2022.09.01-07.09.54:452][129]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/MainWorld.
+[2022.09.01-07.09.56:727][238]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/MainWorld.
+[2022.09.01-07.09.57:063][258]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/MainWorld.
+[2022.09.01-07.09.57:604][288]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/MainWorld.
+[2022.09.01-07.13.22:729][339]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2022.09.01-07.13.22:733][339]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Maps/MainWorld/0/4N/B0RB2GGN172K7PMRB0J1CE_Auto2
+[2022.09.01-07.13.22:733][339]LogSavePackage: Moving '../../../../../../Users/somer/Desktop/ProtoTypeGame/InventorySystem/Saved/B0RB2GGN172K7PMRB0J1CE_Auto25BE7420146FD528D463434A20A561D2A.tmp' to '../../../../../../Users/somer/Desktop/ProtoTypeGame/InventorySystem/Saved/Autosaves/Game/__ExternalActors__/Maps/MainWorld/0/4N/B0RB2GGN172K7PMRB0J1CE_Auto2.uasset'
+[2022.09.01-07.13.22:737][339]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Maps/MainWorld/7/YF/JFCL0BXSF807O6USV0A6TF_Auto2
+[2022.09.01-07.13.22:737][339]LogSavePackage: Moving '../../../../../../Users/somer/Desktop/ProtoTypeGame/InventorySystem/Saved/JFCL0BXSF807O6USV0A6TF_Auto28DA6EF7F493C5ACFA602A7B87880CF79.tmp' to '../../../../../../Users/somer/Desktop/ProtoTypeGame/InventorySystem/Saved/Autosaves/Game/__ExternalActors__/Maps/MainWorld/7/YF/JFCL0BXSF807O6USV0A6TF_Auto2.uasset'
+[2022.09.01-07.13.22:740][339]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Maps/MainWorld/8/XE/CJ7034DXIVQYP6PVD08L8F_Auto2
+[2022.09.01-07.13.22:740][339]LogSavePackage: Moving '../../../../../../Users/somer/Desktop/ProtoTypeGame/InventorySystem/Saved/CJ7034DXIVQYP6PVD08L8F_Auto2F86EFBE64AF54D3D791EEDAEAD409370.tmp' to '../../../../../../Users/somer/Desktop/ProtoTypeGame/InventorySystem/Saved/Autosaves/Game/__ExternalActors__/Maps/MainWorld/8/XE/CJ7034DXIVQYP6PVD08L8F_Auto2.uasset'
+[2022.09.01-07.13.22:743][339]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Maps/MainWorld/A/BS/8GRQSW95IBNENWEVMQMYJD_Auto2
+[2022.09.01-07.13.22:743][339]LogSavePackage: Moving '../../../../../../Users/somer/Desktop/ProtoTypeGame/InventorySystem/Saved/8GRQSW95IBNENWEVMQMYJD_Auto2BD47D47D42A381333C4EAE9B57952B7F.tmp' to '../../../../../../Users/somer/Desktop/ProtoTypeGame/InventorySystem/Saved/Autosaves/Game/__ExternalActors__/Maps/MainWorld/A/BS/8GRQSW95IBNENWEVMQMYJD_Auto2.uasset'
+[2022.09.01-07.13.22:746][339]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Maps/MainWorld/C/ID/X6FVKW01R1TK7LZCPVOLHW_Auto2
+[2022.09.01-07.13.22:747][339]LogSavePackage: Moving '../../../../../../Users/somer/Desktop/ProtoTypeGame/InventorySystem/Saved/X6FVKW01R1TK7LZCPVOLHW_Auto2C180E16E460F05D70126F4840A08050C.tmp' to '../../../../../../Users/somer/Desktop/ProtoTypeGame/InventorySystem/Saved/Autosaves/Game/__ExternalActors__/Maps/MainWorld/C/ID/X6FVKW01R1TK7LZCPVOLHW_Auto2.uasset'
+[2022.09.01-07.13.22:749][339]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Maps/MainWorld/2/OX/4UY8FREVY89H4T212YN2KN_Auto2
+[2022.09.01-07.13.22:749][339]LogSavePackage: Moving '../../../../../../Users/somer/Desktop/ProtoTypeGame/InventorySystem/Saved/4UY8FREVY89H4T212YN2KN_Auto210A55F754F5D8A18F4771FA485ACA7EF.tmp' to '../../../../../../Users/somer/Desktop/ProtoTypeGame/InventorySystem/Saved/Autosaves/Game/__ExternalActors__/Maps/MainWorld/2/OX/4UY8FREVY89H4T212YN2KN_Auto2.uasset'
+[2022.09.01-07.13.22:751][339]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Maps/MainWorld/9/T3/UWEMRU7GZJKFZZXEHDWLHK_Auto2
+[2022.09.01-07.13.22:752][339]LogSavePackage: Moving '../../../../../../Users/somer/Desktop/ProtoTypeGame/InventorySystem/Saved/UWEMRU7GZJKFZZXEHDWLHK_Auto2858C9F674D3601EB8D6F958F2F52EF2E.tmp' to '../../../../../../Users/somer/Desktop/ProtoTypeGame/InventorySystem/Saved/Autosaves/Game/__ExternalActors__/Maps/MainWorld/9/T3/UWEMRU7GZJKFZZXEHDWLHK_Auto2.uasset'
+[2022.09.01-07.13.22:755][339]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Maps/MainWorld/F/4V/BO6RKINNVF9TEXEE6QKJAY_Auto2
+[2022.09.01-07.13.22:756][339]LogSavePackage: Moving '../../../../../../Users/somer/Desktop/ProtoTypeGame/InventorySystem/Saved/BO6RKINNVF9TEXEE6QKJAY_Auto28B891D0F4F64A2D64F6444AFD3CA5628.tmp' to '../../../../../../Users/somer/Desktop/ProtoTypeGame/InventorySystem/Saved/Autosaves/Game/__ExternalActors__/Maps/MainWorld/F/4V/BO6RKINNVF9TEXEE6QKJAY_Auto2.uasset'
+[2022.09.01-07.13.22:757][339]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Maps/MainWorld/6/KJ/8K9FF4T6TZMI5K967UATV1_Auto2
+[2022.09.01-07.13.22:758][339]LogSavePackage: Moving '../../../../../../Users/somer/Desktop/ProtoTypeGame/InventorySystem/Saved/8K9FF4T6TZMI5K967UATV1_Auto2EE38DB5B4D60F9AC10F3EDB99F15E83B.tmp' to '../../../../../../Users/somer/Desktop/ProtoTypeGame/InventorySystem/Saved/Autosaves/Game/__ExternalActors__/Maps/MainWorld/6/KJ/8K9FF4T6TZMI5K967UATV1_Auto2.uasset'
+[2022.09.01-07.13.22:760][339]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Maps/MainWorld/1/C5/VEZIARE0JZIUZ2KJGNZ715_Auto2
+[2022.09.01-07.13.22:760][339]LogSavePackage: Moving '../../../../../../Users/somer/Desktop/ProtoTypeGame/InventorySystem/Saved/VEZIARE0JZIUZ2KJGNZ715_Auto2B9FD5BF3473C246DFCBD57866248B060.tmp' to '../../../../../../Users/somer/Desktop/ProtoTypeGame/InventorySystem/Saved/Autosaves/Game/__ExternalActors__/Maps/MainWorld/1/C5/VEZIARE0JZIUZ2KJGNZ715_Auto2.uasset'
+[2022.09.01-07.13.22:762][339]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Maps/MainWorld/6/SF/KI3N5JHXBL0UJN16E0L6KA_Auto2
+[2022.09.01-07.13.22:762][339]LogSavePackage: Moving '../../../../../../Users/somer/Desktop/ProtoTypeGame/InventorySystem/Saved/KI3N5JHXBL0UJN16E0L6KA_Auto23EA438CC4F6D3DCB65F5429DB6B096AC.tmp' to '../../../../../../Users/somer/Desktop/ProtoTypeGame/InventorySystem/Saved/Autosaves/Game/__ExternalActors__/Maps/MainWorld/6/SF/KI3N5JHXBL0UJN16E0L6KA_Auto2.uasset'
+[2022.09.01-07.13.22:764][339]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Maps/MainWorld/0/J2/W1D3RHE376A8SXR35O5HDY_Auto2
+[2022.09.01-07.13.22:764][339]LogSavePackage: Moving '../../../../../../Users/somer/Desktop/ProtoTypeGame/InventorySystem/Saved/W1D3RHE376A8SXR35O5HDY_Auto249BDDB454FE79650E1BB1297595EFA3A.tmp' to '../../../../../../Users/somer/Desktop/ProtoTypeGame/InventorySystem/Saved/Autosaves/Game/__ExternalActors__/Maps/MainWorld/0/J2/W1D3RHE376A8SXR35O5HDY_Auto2.uasset'
+[2022.09.01-07.13.22:766][339]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Maps/MainWorld/4/UA/FV3GXWQW1PF67UL7LUG5F2_Auto2
+[2022.09.01-07.13.22:766][339]LogSavePackage: Moving '../../../../../../Users/somer/Desktop/ProtoTypeGame/InventorySystem/Saved/FV3GXWQW1PF67UL7LUG5F2_Auto2C1BC74DD44B3679B81E28F8CD56C2408.tmp' to '../../../../../../Users/somer/Desktop/ProtoTypeGame/InventorySystem/Saved/Autosaves/Game/__ExternalActors__/Maps/MainWorld/4/UA/FV3GXWQW1PF67UL7LUG5F2_Auto2.uasset'
+[2022.09.01-07.13.22:768][339]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Maps/MainWorld/A/MF/EL4SVIUFA60T5W8NSM9T7G_Auto2
+[2022.09.01-07.13.22:768][339]LogSavePackage: Moving '../../../../../../Users/somer/Desktop/ProtoTypeGame/InventorySystem/Saved/EL4SVIUFA60T5W8NSM9T7G_Auto24E49FDC7472E4BB800B8BEAA3E7FF122.tmp' to '../../../../../../Users/somer/Desktop/ProtoTypeGame/InventorySystem/Saved/Autosaves/Game/__ExternalActors__/Maps/MainWorld/A/MF/EL4SVIUFA60T5W8NSM9T7G_Auto2.uasset'
+[2022.09.01-07.13.22:770][339]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Maps/MainWorld/B/OC/1HN4T2D9A8KKJ1V85PFN5U_Auto2
+[2022.09.01-07.13.22:770][339]LogSavePackage: Moving '../../../../../../Users/somer/Desktop/ProtoTypeGame/InventorySystem/Saved/1HN4T2D9A8KKJ1V85PFN5U_Auto24C2B69544AE69C8606CF748C93506972.tmp' to '../../../../../../Users/somer/Desktop/ProtoTypeGame/InventorySystem/Saved/Autosaves/Game/__ExternalActors__/Maps/MainWorld/B/OC/1HN4T2D9A8KKJ1V85PFN5U_Auto2.uasset'
+[2022.09.01-07.13.22:771][339]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MainWorld' took 0.076
+[2022.09.01-07.13.22:771][339]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.076
+[2022.09.01-07.13.22:771][339]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sounds/Medieval_Music_–_Cobblestone_Village] ([1] browsable assets)...
+[2022.09.01-07.13.22:803][339]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Sounds/Medieval_Music_–_Cobblestone_Village.Medieval_Music_–_Cobblestone_Village]
+[2022.09.01-07.13.22:803][339]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sounds/Medieval_Music_–_Cobblestone_Village]
+[2022.09.01-07.13.22:835][339]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Sounds/Medieval_Music_–_Cobblestone_Village_Auto2
+[2022.09.01-07.13.22:835][339]LogSavePackage: Moving '../../../../../../Users/somer/Desktop/ProtoTypeGame/InventorySystem/Saved/Medieval_Music_–_Cobblestone_Vil06032A59437BD8F2E43FDD9675372550.tmp' to '../../../../../../Users/somer/Desktop/ProtoTypeGame/InventorySystem/Saved/Autosaves/Game/Sounds/Medieval_Music_–_Cobblestone_Village_Auto2.uasset'
+[2022.09.01-07.13.22:836][339]LogFileHelpers: Auto-saving content packages took 0.065
+[2022.09.01-07.15.15:433][852]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\somer\Downloads\Drums of Drakkar Viking and medieval music.wav)
+[2022.09.01-07.15.15:536][852]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave Drums_of_Drakkar_Viking_and_medieval_music...
+[2022.09.01-07.15.15:546][852]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Sounds/Drums_of_Drakkar_Viking_and_medieval_music.Drums_of_Drakkar_Viking_and_medieval_music will be modified from 40 to 40.
+[2022.09.01-07.15.17:799][852]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 37220352 while cooking SoundWave /Game/Sounds/Drums_of_Drakkar_Viking_and_medieval_music.Drums_of_Drakkar_Viking_and_medieval_music.
+[2022.09.01-07.15.17:809][852]LogAudio: Display: Chunk size for SoundWave /Game/Sounds/Drums_of_Drakkar_Viking_and_medieval_music.Drums_of_Drakkar_Viking_and_medieval_music: 262144
+[2022.09.01-07.15.17:847][852]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SViewport [SEditorViewport.cpp(55)].
