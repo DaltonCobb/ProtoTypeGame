@@ -1407,3 +1407,57 @@ Script call stack:
 [2022.09.01-04.50.10:641][358]LogSavePackage: Moving '../../../../../../Users/Spencer/Documents/GitHub/ProtoTypeGame/InventorySystem/Saved/BaseEnemyABB116AC47EAB4E6F13B40A87292C8C0.tmp' to '../../../../../../Users/Spencer/Documents/GitHub/ProtoTypeGame/InventorySystem/Content/Characters/Enemies/BaseEnemy.uasset'
 [2022.09.01-04.50.10:658][358]AssetCheck: New page: Asset Save: BaseEnemy
 [2022.09.01-04.50.10:658][358]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/BaseEnemy.BaseEnemy
+[2022.09.01-04.50.40:168][909]BlueprintLog: New page: Compile BaseEnemy
+[2022.09.01-04.50.40:225][909]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Characters/Enemies/BaseEnemy.BaseEnemy_C:UserConstructionScript'!
+[2022.09.01-04.50.40:225][909]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Characters/Enemies/BaseEnemy.BaseEnemy_C:UserConstructionScript'!
+[2022.09.01-04.50.40:226][909]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Characters/Enemies/BaseEnemy.BaseEnemy_C:UserConstructionScript'!
+[2022.09.01-04.50.40:226][909]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Characters/Enemies/BaseEnemy.BaseEnemy_C:UserConstructionScript'!
+[2022.09.01-04.50.40:226][909]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Characters/Enemies/BaseEnemy.BaseEnemy_C:UserConstructionScript'!
+[2022.09.01-04.50.40:289][909]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2022.09.01-04.50.40:299][909]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Characters/Enemies/BaseEnemy.BaseEnemy_C:UserConstructionScript'!
+[2022.09.01-04.50.40:301][909]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Characters/Enemies/BaseEnemy.BaseEnemy_C:UserConstructionScript'!
+[2022.09.01-04.50.40:301][909]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Characters/Enemies/BaseEnemy.BaseEnemy_C:UserConstructionScript'!
+[2022.09.01-04.50.40:303][909]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Characters/Enemies/BaseEnemy.BaseEnemy_C:UserConstructionScript'!
+[2022.09.01-04.50.40:360][909]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Characters/Enemies/BaseEnemy.BaseEnemy_C:UserConstructionScript'!
+[2022.09.01-04.50.40:361][909]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Characters/Enemies/BaseEnemy.BaseEnemy_C:UserConstructionScript'!
+[2022.09.01-04.50.40:362][909]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Characters/Enemies/BaseEnemy.BaseEnemy_C:UserConstructionScript'!
+[2022.09.01-04.51.12:286][460]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2022.09.01-04.51.12:294][460]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Maps/MainWorld/0/6F/6PVJT16RUEOZ5A9Y17FJY7_Auto4
+[2022.09.01-04.51.12:295][460]LogSavePackage: Moving '../../../../../../Users/Spencer/Documents/GitHub/ProtoTypeGame/InventorySystem/Saved/6PVJT16RUEOZ5A9Y17FJY7_Auto4153CB2FE469C8179FB44B3965B85CC15.tmp' to '../../../../../../Users/Spencer/Documents/GitHub/ProtoTypeGame/InventorySystem/Saved/Autosaves/Game/__ExternalActors__/Maps/MainWorld/0/6F/6PVJT16RUEOZ5A9Y17FJY7_Auto4.uasset'
+[2022.09.01-04.51.12:296][460]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MainWorld' took 0.060
+[2022.09.01-04.51.12:296][460]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.060
+[2022.09.01-04.51.45:808][138]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2022.09.01-04.51.45:808][138]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.01-04.53.19:405][256]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Characters/Enemies/BaseEnemy.BaseEnemy_C:UserConstructionScript'!
+[2022.09.01-04.53.19:407][256]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Characters/Enemies/BaseEnemy.BaseEnemy_C:UserConstructionScript'!
+[2022.09.01-04.53.19:408][256]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Characters/Enemies/BaseEnemy.BaseEnemy_C:UserConstructionScript'!
+[2022.09.01-04.57.24:507][325]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.09.01-05.00.05:693][865]BlueprintLog: New page: Compile BaseEnemy
+[2022.09.01-05.00.05:765][865]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Characters/Enemies/BaseEnemy.BaseEnemy_C:UserConstructionScript'!
+[2022.09.01-05.00.05:765][865]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Characters/Enemies/BaseEnemy.BaseEnemy_C:UserConstructionScript'!
+[2022.09.01-05.00.05:765][865]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Characters/Enemies/BaseEnemy.BaseEnemy_C:UserConstructionScript'!
+[2022.09.01-05.00.05:766][865]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Characters/Enemies/BaseEnemy.BaseEnemy_C:UserConstructionScript'!
+[2022.09.01-05.00.05:766][865]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Characters/Enemies/BaseEnemy.BaseEnemy_C:UserConstructionScript'!
+[2022.09.01-05.00.05:838][865]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2022.09.01-05.00.05:852][865]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Characters/Enemies/BaseEnemy.BaseEnemy_C:UserConstructionScript'!
+[2022.09.01-05.00.05:854][865]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Characters/Enemies/BaseEnemy.BaseEnemy_C:UserConstructionScript'!
+[2022.09.01-05.00.05:855][865]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Characters/Enemies/BaseEnemy.BaseEnemy_C:UserConstructionScript'!
+[2022.09.01-05.00.05:856][865]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Characters/Enemies/BaseEnemy.BaseEnemy_C:UserConstructionScript'!
+[2022.09.01-05.00.05:919][865]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Characters/Enemies/BaseEnemy.BaseEnemy_C:UserConstructionScript'!
+[2022.09.01-05.00.05:921][865]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Characters/Enemies/BaseEnemy.BaseEnemy_C:UserConstructionScript'!
+[2022.09.01-05.00.05:922][865]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Characters/Enemies/BaseEnemy.BaseEnemy_C:UserConstructionScript'!
+[2022.09.01-05.00.08:720][171]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2022.09.01-05.00.08:785][171]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/MainWorld/0/6F/6PVJT16RUEOZ5A9Y17FJY7
+[2022.09.01-05.00.08:785][171]LogSavePackage: Moving '../../../../../../Users/Spencer/Documents/GitHub/ProtoTypeGame/InventorySystem/Saved/6PVJT16RUEOZ5A9Y17FJY731F5C5EA4D3741AE3DDCE6B280704B83.tmp' to '../../../../../../Users/Spencer/Documents/GitHub/ProtoTypeGame/InventorySystem/Content/__ExternalActors__/Maps/MainWorld/0/6F/6PVJT16RUEOZ5A9Y17FJY7.uasset'
+[2022.09.01-05.00.08:861][171]LogSavePackage: Moving output files for package: /Game/Characters/Enemies/BaseEnemy
+[2022.09.01-05.00.08:861][171]LogSavePackage: Moving '../../../../../../Users/Spencer/Documents/GitHub/ProtoTypeGame/InventorySystem/Saved/BaseEnemy5DECDEAB44252F5853AA98A879254A74.tmp' to '../../../../../../Users/Spencer/Documents/GitHub/ProtoTypeGame/InventorySystem/Content/Characters/Enemies/BaseEnemy.uasset'
+[2022.09.01-05.00.08:878][171]AssetCheck: New page: Asset Save: multiple assets
+[2022.09.01-05.00.08:878][171]LogContentValidation: Display: Validating Blueprint /Game/Characters/Enemies/BaseEnemy.BaseEnemy
+[2022.09.01-05.00.08:878][171]LogContentValidation: Display: Validating KnightEnemy_C /Game/Maps/MainWorld.MainWorld:PersistentLevel.KnightEnemy_C_UAID_482AE35CD074193001_1470097247
+[2022.09.01-05.01.12:681][542]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2022.09.01-05.01.12:683][542]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MainWorld' took 0.048
+[2022.09.01-05.01.12:684][542]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Enemies/BaseEnemy] ([2] browsable assets)...
+[2022.09.01-05.01.12:684][542]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Enemies/BaseEnemy]
+[2022.09.01-05.01.12:723][542]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Enemies/BaseEnemy_Auto5
+[2022.09.01-05.01.12:724][542]LogSavePackage: Moving '../../../../../../Users/Spencer/Documents/GitHub/ProtoTypeGame/InventorySystem/Saved/BaseEnemy_Auto593DA754849F1E89830967492FAADA7F5.tmp' to '../../../../../../Users/Spencer/Documents/GitHub/ProtoTypeGame/InventorySystem/Saved/Autosaves/Game/Characters/Enemies/BaseEnemy_Auto5.uasset'
+[2022.09.01-05.01.12:726][542]LogFileHelpers: Auto-saving content packages took 0.043
